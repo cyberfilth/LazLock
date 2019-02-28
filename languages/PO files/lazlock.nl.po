@@ -1,0 +1,1163 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: LazLock\n"
+"Language: nl\n"
+
+#: tmainlazlock.btnbanking.caption
+msgctxt "tmainlazlock.btnbanking.caption"
+msgid "Banking"
+msgstr "bank"
+
+#: tmainlazlock.btneducation.caption
+msgctxt "tmainlazlock.btneducation.caption"
+msgid "Education"
+msgstr "Onderwijs"
+
+#: tmainlazlock.btnemail.caption
+msgctxt "tmainlazlock.btnemail.caption"
+msgid "Email"
+msgstr "E-mail"
+
+#: tmainlazlock.btnmedia.caption
+msgctxt "tmainlazlock.btnmedia.caption"
+msgid "Media"
+msgstr "Media"
+
+#: tmainlazlock.btnother.caption
+msgctxt "tmainlazlock.btnother.caption"
+msgid "Other"
+msgstr "anders"
+
+#: tmainlazlock.btnshopping.caption
+msgctxt "tmainlazlock.btnshopping.caption"
+msgid "Shopping"
+msgstr "Boodschappen doen"
+
+#: tmainlazlock.btnshowall.caption
+msgctxt "tmainlazlock.btnshowall.caption"
+msgid "All"
+msgstr "Alle"
+
+#: tmainlazlock.btnsocialmedia.caption
+msgctxt "tmainlazlock.btnsocialmedia.caption"
+msgid "Social Media"
+msgstr "Sociale media"
+
+#: tmainlazlock.btnsoftware.caption
+msgctxt "tmainlazlock.btnsoftware.caption"
+msgid "Software"
+msgstr "Software"
+
+#: tmainlazlock.btnweb.caption
+msgctxt "tmainlazlock.btnweb.caption"
+msgid "Web"
+msgstr "Web"
+
+#: tmainlazlock.btnwork.caption
+msgctxt "tmainlazlock.btnwork.caption"
+msgid "Work"
+msgstr "Werk"
+
+#: tmainlazlock.caption
+msgid "LazLock"
+msgstr "LazLock"
+
+#: tmainlazlock.categoryheader.caption
+msgid "Categories"
+msgstr "Categorieën"
+
+#: tmainlazlock.labelpassword.caption
+msgctxt "TMAINLAZLOCK.LABELPASSWORD.CAPTION"
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: tmainlazlock.labelurl.caption
+msgctxt "TMAINLAZLOCK.LABELURL.CAPTION"
+msgid "URL"
+msgstr "URL"
+
+#: tmainlazlock.labeluser.caption
+msgctxt "TMAINLAZLOCK.LABELUSER.CAPTION"
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: tmainlazlock.listview1.columns[0].caption
+msgctxt "tmainlazlock.listview1.columns[0].caption"
+msgid "Category"
+msgstr "Categorie"
+
+#: tmainlazlock.listview1.columns[1].caption
+msgid "Logins"
+msgstr "Logins"
+
+#: tmainlazlock.listview1.columns[2].caption
+msgctxt "tmainlazlock.listview1.columns[2].caption"
+msgid "URL"
+msgstr "URL"
+
+#: tmainlazlock.listview1.columns[3].caption
+msgctxt "tmainlazlock.listview1.columns[3].caption"
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: tmainlazlock.listview1.columns[4].caption
+msgctxt "tmainlazlock.listview1.columns[4].caption"
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: tmainlazlock.listview1.columns[5].caption
+msgid "Image"
+msgstr "Beeld"
+
+#: tmainlazlock.menuitem1.caption
+msgctxt "tmainlazlock.menuitem1.caption"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.menuitem3.caption
+msgctxt "TMAINLAZLOCK.MENUITEM3.CAPTION"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.menuitem5.caption
+msgctxt "TMAINLAZLOCK.MENUITEM5.CAPTION"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.mnuabout.caption
+msgid "About"
+msgstr "Over"
+
+#: tmainlazlock.mnuadd.caption
+msgctxt "tmainlazlock.mnuadd.caption"
+msgid "Add Entry"
+msgstr "Voeg invoer toe"
+
+#: tmainlazlock.mnuadd.hint
+msgctxt "tmainlazlock.mnuadd.hint"
+msgid "Add a new entry"
+msgstr "Voeg een nieuw item toe"
+
+#: tmainlazlock.mnubackup.caption
+msgid "Create backup"
+msgstr "Een backup maken"
+
+#: tmainlazlock.mnuchangepw.caption
+msgid "Change Password"
+msgstr "Verander wachtwoord"
+
+#: tmainlazlock.mnudelete.caption
+msgctxt "tmainlazlock.mnudelete.caption"
+msgid "Delete Entry"
+msgstr "Invoer verwijderen"
+
+#: tmainlazlock.mnudelete.hint
+msgctxt "tmainlazlock.mnudelete.hint"
+msgid "Remove an entry"
+msgstr "Verwijder een item"
+
+#: tmainlazlock.mnuedit.caption
+msgctxt "tmainlazlock.mnuedit.caption"
+msgid "Edit Entry"
+msgstr "Vermelding bewerken"
+
+#: tmainlazlock.mnuedit.hint
+msgctxt "tmainlazlock.mnuedit.hint"
+msgid "Edit an entry"
+msgstr "Bewerk een item"
+
+#: tmainlazlock.mnueditdropdown.caption
+msgid "&Edit"
+msgstr "&Bewerk"
+
+#: tmainlazlock.mnuexit.caption
+msgid "E&xit"
+msgstr "Uitgang"
+
+#: tmainlazlock.mnuexit.hint
+msgctxt "tmainlazlock.mnuexit.hint"
+msgid "Exit LazLock"
+msgstr "LazLock verlaten"
+
+#: tmainlazlock.mnuexporttext.caption
+msgid "Export as plain text"
+msgstr "Exporteer als platte tekst"
+
+#: tmainlazlock.mnufile.caption
+msgid "&File"
+msgstr "&Het dossier"
+
+#: tmainlazlock.mnuhelp.caption
+msgid "&Help"
+msgstr "&Helpen"
+
+#: tmainlazlock.mnuhelpdivider.caption
+msgctxt "TMAINLAZLOCK.MNUHELPDIVIDER.CAPTION"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.mnuonlinehelp.caption
+msgid "Online help"
+msgstr "Online hulp"
+
+#: tmainlazlock.mnupwgenerator.caption
+msgctxt "tmainlazlock.mnupwgenerator.caption"
+msgid "Password Generator"
+msgstr "Wachtwoord generator"
+
+#: tmainlazlock.mnupwgenerator.hint
+msgctxt "tmainlazlock.mnupwgenerator.hint"
+msgid "Open Password Generator"
+msgstr "Open wachtwoordgenerator"
+
+#: tmainlazlock.mnusave.caption
+msgid "Encrypt and &Save"
+msgstr "Versleutelen en opslaan"
+
+#: tmainlazlock.mnusave.hint
+msgctxt "tmainlazlock.mnusave.hint"
+msgid "Save and encrypt database"
+msgstr "Sla de database op en codeer deze"
+
+#: tmainlazlock.mnuseparator.caption
+msgctxt "TMAINLAZLOCK.MNUSEPARATOR.CAPTION"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.rcmmnuaddentry.caption
+msgctxt "TMAINLAZLOCK.RCMMNUADDENTRY.CAPTION"
+msgid "Add Entry"
+msgstr "Voeg invoer toe"
+
+#: tmainlazlock.rcmmnupwgen.caption
+msgctxt "TMAINLAZLOCK.RCMMNUPWGEN.CAPTION"
+msgid "Password Generator"
+msgstr "Wachtwoord generator"
+
+#: tmainlazlock.rcmnuaddentry.caption
+msgctxt "TMAINLAZLOCK.RCMNUADDENTRY.CAPTION"
+msgid "Add Entry"
+msgstr "Voeg invoer toe"
+
+#: tmainlazlock.rcmnucopypassword.caption
+msgid "Copy Password"
+msgstr "Wachtwoord kopiëren"
+
+#: tmainlazlock.rcmnucopyurl.caption
+msgid "Copy URL"
+msgstr "Kopie URL"
+
+#: tmainlazlock.rcmnucopyusername.caption
+msgid "Copy Username"
+msgstr "Kopieer gebruikersnaam"
+
+#: tmainlazlock.rcmnudeleteentry.caption
+msgctxt "TMAINLAZLOCK.RCMNUDELETEENTRY.CAPTION"
+msgid "Delete Entry"
+msgstr "Invoer verwijderen"
+
+#: tmainlazlock.rcmnueditentry.caption
+msgctxt "TMAINLAZLOCK.RCMNUEDITENTRY.CAPTION"
+msgid "Edit Entry"
+msgstr "Vermelding bewerken"
+
+#: tmainlazlock.rcmnupwgenerator.caption
+msgctxt "TMAINLAZLOCK.RCMNUPWGENERATOR.CAPTION"
+msgid "Password Generator"
+msgstr "Wachtwoord generator"
+
+#: tmainlazlock.savedialog1.title
+msgid "Save unencrypted text file as"
+msgstr "Bewaar onversleuteld tekstbestand als"
+
+#: tmainlazlock.tbdivider1.caption
+msgid "TBdivider1"
+msgstr "TBdivider1"
+
+#: tmainlazlock.tbdivider2.caption
+msgid "TBdivider2"
+msgstr "TBdivider2"
+
+#: tmainlazlock.tbdivider3.caption
+msgid "TBdivider3"
+msgstr "TBdivider3"
+
+#: tmainlazlock.tbquit.caption
+msgid "TBQuit"
+msgstr "TBQuit"
+
+#: tmainlazlock.tbsave.caption
+msgid "TBSave"
+msgstr "TBSave"
+
+#: tmainlazlock.toolbar1.caption
+msgid "ToolBar1"
+msgstr "ToolBar1"
+
+#: tpasswordgenerator.abox.caption
+msgid "Symbols"
+msgstr "Symbolen"
+
+#: tpasswordgenerator.bbox.caption
+msgid "Numbers"
+msgstr "Numbers"
+
+#: tpasswordgenerator.btnadd.caption
+msgid "Add"
+msgstr "Toevoegen"
+
+#: tpasswordgenerator.btncancel.caption
+msgctxt "tpasswordgenerator.btncancel.caption"
+msgid "Cancel"
+msgstr "Annuleer"
+
+#: tpasswordgenerator.btncancel2.caption
+msgctxt "tpasswordgenerator.btncancel2.caption"
+msgid "Cancel"
+msgstr "Annuleer"
+
+#: tpasswordgenerator.btnclose.caption
+msgid "Close"
+msgstr "Dichtbij"
+
+#: tpasswordgenerator.btncopy.caption
+msgid "Copy"
+msgstr "Kopiëren"
+
+#: tpasswordgenerator.btngenpw.caption
+msgid "Generate password"
+msgstr "Genereer wachtwoord"
+
+#: tpasswordgenerator.btnsavechanges.caption
+msgid "Save changes"
+msgstr "Wijzigingen opslaan"
+
+#: tpasswordgenerator.caption
+msgctxt "tpasswordgenerator.caption"
+msgid "Add Entry / Password Generator"
+msgstr "Invoer- / wachtwoordgenerator toevoegen"
+
+#: tpasswordgenerator.cbox.caption
+msgid "Uppercase"
+msgstr "hoofdletters"
+
+#: tpasswordgenerator.dbox.caption
+msgid "Lowercase"
+msgstr "kleine letters"
+
+#: tpasswordgenerator.ebox.caption
+msgid "Brackets"
+msgstr "beugels"
+
+#: tpasswordgenerator.edcategory.text
+msgctxt "tpasswordgenerator.edcategory.text"
+msgid "Select"
+msgstr "kiezen"
+
+#: tpasswordgenerator.edcategory2.text
+msgctxt "tpasswordgenerator.edcategory2.text"
+msgid "Select"
+msgstr "kiezen"
+
+#: tpasswordgenerator.edimage.hint
+msgctxt "tpasswordgenerator.edimage.hint"
+msgid "Select an icon"
+msgstr "Selecteer een pictogram"
+
+#: tpasswordgenerator.edimage2.hint
+msgctxt "tpasswordgenerator.edimage2.hint"
+msgid "Select an icon"
+msgstr "Selecteer een pictogram"
+
+#: tpasswordgenerator.edname.editlabel.caption
+msgctxt "tpasswordgenerator.edname.editlabel.caption"
+msgid "Name of site"
+msgstr "Naam van de site"
+
+#: tpasswordgenerator.edname.texthint
+msgctxt "tpasswordgenerator.edname.texthint"
+msgid "e.g.  CPunk-Security"
+msgstr "bijv. CPunk-Security"
+
+#: tpasswordgenerator.edname2.editlabel.caption
+msgctxt "tpasswordgenerator.edname2.editlabel.caption"
+msgid "Name of site"
+msgstr "Naam van de site"
+
+#: tpasswordgenerator.edname2.texthint
+msgctxt "tpasswordgenerator.edname2.texthint"
+msgid "e.g.  CPunk-Security"
+msgstr "bijv. CPunk-Security"
+
+#: tpasswordgenerator.edpassword.editlabel.caption
+msgctxt "tpasswordgenerator.edpassword.editlabel.caption"
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: tpasswordgenerator.edpassword2.editlabel.caption
+msgctxt "tpasswordgenerator.edpassword2.editlabel.caption"
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: tpasswordgenerator.edurl.editlabel.caption
+msgctxt "tpasswordgenerator.edurl.editlabel.caption"
+msgid "Web address"
+msgstr "webadres"
+
+#: tpasswordgenerator.edurl.texthint
+msgctxt "tpasswordgenerator.edurl.texthint"
+msgid "https://www.cpunk-security.com/"
+msgstr "https://www.cpunk-security.com/"
+
+#: tpasswordgenerator.edurl2.editlabel.caption
+msgctxt "tpasswordgenerator.edurl2.editlabel.caption"
+msgid "Web address"
+msgstr "webadres"
+
+#: tpasswordgenerator.edurl2.texthint
+msgctxt "tpasswordgenerator.edurl2.texthint"
+msgid "https://www.cpunk-security.com/"
+msgstr "https://www.cpunk-security.com/"
+
+#: tpasswordgenerator.eduser.editlabel.caption
+msgctxt "tpasswordgenerator.eduser.editlabel.caption"
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: tpasswordgenerator.eduser2.editlabel.caption
+msgctxt "tpasswordgenerator.eduser2.editlabel.caption"
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: tpasswordgenerator.fbox.caption
+msgid "Spaces"
+msgstr "Spaces"
+
+#: tpasswordgenerator.label1.caption
+msgid "Length of password"
+msgstr "Lengte van het wachtwoord"
+
+#: tpasswordgenerator.label2.caption
+msgctxt "tpasswordgenerator.label2.caption"
+msgid "Generate a random password"
+msgstr "Genereer een willekeurig wachtwoord"
+
+#: tpasswordgenerator.lblcategory.caption
+msgctxt "tpasswordgenerator.lblcategory.caption"
+msgid "Category"
+msgstr "Categorie"
+
+#: tpasswordgenerator.lblcategory2.caption
+msgctxt "tpasswordgenerator.lblcategory2.caption"
+msgid "Category"
+msgstr "Categorie"
+
+#: tpasswordgenerator.lblicon.caption
+msgctxt "tpasswordgenerator.lblicon.caption"
+msgid "Select an icon"
+msgstr "Selecteer een pictogram"
+
+#: tpasswordgenerator.lblicon2.caption
+msgctxt "tpasswordgenerator.lblicon2.caption"
+msgid "Select an icon"
+msgstr "Selecteer een pictogram"
+
+#: tpasswordgenerator.lbltitle.caption
+msgid "Create a new entry"
+msgstr "Maak een nieuw item"
+
+#: tpasswordgenerator.lbltitle1.caption
+msgctxt "tpasswordgenerator.lbltitle1.caption"
+msgid "Edit Entry"
+msgstr "Vermelding bewerken"
+
+#: tpasswordgenerator.linkpwgenerator.caption
+msgctxt "tpasswordgenerator.linkpwgenerator.caption"
+msgid "Use Password Generator"
+msgstr "Gebruik wachtwoordgenerator"
+
+#: tpasswordgenerator.linkpwgenerator2.caption
+msgctxt "tpasswordgenerator.linkpwgenerator2.caption"
+msgid "Use Password Generator"
+msgstr "Gebruik wachtwoordgenerator"
+
+#: tpasswordgenerator.optionsgroup.caption
+msgid "Password options"
+msgstr "Wachtwoord opties"
+
+#: tpasswordgenerator.tabeditentry.caption
+msgctxt "tpasswordgenerator.tabeditentry.caption"
+msgid "Edit Entry"
+msgstr "Vermelding bewerken"
+
+#: tpasswordgenerator.tabenternew.caption
+msgid "Add entry"
+msgstr "Item toevoegen"
+
+#: tpasswordgenerator.tabpwgenerator.caption
+msgctxt "tpasswordgenerator.tabpwgenerator.caption"
+msgid "Password Generator"
+msgstr "Wachtwoord generator"
+
+#: unitmain.addentrypwgeneratorcaption
+msgctxt "unitmain.addentrypwgeneratorcaption"
+msgid "Add Entry / Password Generator"
+msgstr "Invoer- / wachtwoordgenerator toevoegen"
+
+#: unitmain.changecaption
+msgctxt "unitmain.changecaption"
+msgid "Change password"
+msgstr "Verander wachtwoord"
+
+#: unitmain.confirmcaption
+msgctxt "unitmain.confirmcaption"
+msgid "Confirm password"
+msgstr "Bevestig wachtwoord"
+
+#: unitmain.copytocboard
+msgctxt "unitmain.copytocboard"
+msgid "Copy to the clipboard"
+msgstr "Kopiëren naar het klembord"
+
+#: unitmain.createcaption
+msgctxt "unitmain.createcaption"
+msgid "Create a new file"
+msgstr "Maak een nieuw bestand"
+
+#: unitmain.dontmatch
+msgctxt "unitmain.dontmatch"
+msgid "Passwords do not match\n"
+"LazLock will now exit\n"
+""
+msgstr "Wachtwoorden komen niet overeen\n"
+"LazLock zal nu afsluiten\n"
+""
+
+#: unitmain.enterpw
+msgctxt "unitmain.enterpw"
+msgid "Please enter your password."
+msgstr "Voer uw wachtwoord in."
+
+#: unitmain.enterpwcaption
+msgctxt "unitmain.enterpwcaption"
+msgid "Enter password"
+msgstr "Voer wachtwoord in"
+
+#: unitmain.exitdecryptmessage
+msgctxt "unitmain.exitdecryptmessage"
+msgid "Incorrect password entered.\n"
+"LazLock will now quit.\n"
+""
+msgstr "Onjuist wachtwoord ingevoerd.\n"
+"LazLock zal nu stoppen.\n"
+""
+
+#: unitmain.letsbegin
+msgctxt "unitmain.letsbegin"
+msgid "Let's begin"
+msgstr "Laten we beginnen"
+
+#: unitmain.newpw1message
+msgctxt "unitmain.newpw1message"
+msgid "Enter a new password to encrypt this file."
+msgstr "Voer een nieuw wachtwoord in om dit bestand te versleutelen."
+
+#: unitmain.newvaultmessage
+msgctxt "unitmain.newvaultmessage"
+msgid "A new LazLock vault will be created.\n"
+"Please enter a new password that will be used to protect your data.\n"
+"\n"
+"IT IS IMPORTANT THAT YOU NEVER FORGET THIS PASSWORD.\n"
+"To protect your privacy, LazLock will not create a backup of your password.\n"
+""
+msgstr "Er wordt een nieuwe LazLock-kluis gemaakt.\n"
+"Voer een nieuw wachtwoord in dat zal worden gebruikt om uw gegevens te beschermen.\n"
+"\n"
+"HET IS BELANGRIJK DAT U NOOIT HETZE WACHTWOORD VERGEET.\n"
+"Om uw privacy te beschermen, maakt LazLock geen back-up van uw wachtwoord.\n"
+""
+
+#: unitmain.nochangemessage
+msgctxt "unitmain.nochangemessage"
+msgid "Passwords do not match.\n"
+"Current password has not been changed.\n"
+""
+msgstr "Wachtwoorden komen niet overeen.\n"
+"Huidig ​​wachtwoord is niet gewijzigd.\n"
+""
+
+#: unitmain.noentrymessage
+msgctxt "unitmain.noentrymessage"
+msgid "No entry selected"
+msgstr "Geen invoer geselecteerd"
+
+#: unitmain.nopasswordexit
+msgctxt "unitmain.nopasswordexit"
+msgid "No password entered, LazLock will exit"
+msgstr "Geen wachtwoord ingevoerd, LazLock zal afsluiten"
+
+#: unitmain.openlinkdefaultbrowser
+msgctxt "unitmain.openlinkdefaultbrowser"
+msgid "Open link in default web browser"
+msgstr "Open link in standaard webbrowser"
+
+#: unitmain.reenterpw
+msgctxt "unitmain.reenterpw"
+msgid "Please re-enter the password to confirm."
+msgstr "Voer het wachtwoord opnieuw in om te bevestigen."
+
+#: unitmain.welcomemessagedialog
+msgctxt "unitmain.welcomemessagedialog"
+msgid "Welcome to LazLock Password Manager\n"
+"A new vault has been created for you to begin storing your passwords.\n"
+"Do you wish to view the online help?\n"
+""
+msgstr "Welkom bij LazLock Password Manager\n"
+"Er is een nieuwe kluis voor u gemaakt om te beginnen met het opslaan van uw wachtwoorden.\n"
+"Wilt u de online hulp bekijken?\n"
+""
+
+#: unitpassword.averagepw
+msgctxt "unitpassword.averagepw"
+msgid "Average strength password"
+msgstr "Gemiddeld wachtwoord voor sterkte"
+
+#: unitpassword.closepwgenerator
+msgctxt "unitpassword.closepwgenerator"
+msgid "Close password generator"
+msgstr "Sluit wachtwoordgenerator"
+
+#: unitpassword.completeallfields
+msgctxt "unitpassword.completeallfields"
+msgid "Please complete all fields to add a new entry"
+msgstr "Vul alle velden in om een ​​nieuw item toe te voegen"
+
+#: unitpassword.copypwtoclipboard
+msgctxt "unitpassword.copypwtoclipboard"
+msgid "Copy password to clipboard"
+msgstr "Kopieer het wachtwoord naar het klembord"
+
+#: unitpassword.generaterandompw
+msgctxt "unitpassword.generaterandompw"
+msgid "Generate a random password"
+msgstr "Genereer een willekeurig wachtwoord"
+
+#: unitpassword.selectpwcharacters
+msgctxt "unitpassword.selectpwcharacters"
+msgid "Please select which characters to include in your password."
+msgstr "Selecteer de tekens die u in uw wachtwoord wilt opnemen."
+
+#: unitpassword.statusenablebrackets
+msgctxt "unitpassword.statusenablebrackets"
+msgid "Enable brackets in password"
+msgstr "Schakel haakjes in wachtwoord in"
+
+#: unitpassword.statusenablelowercase
+msgctxt "unitpassword.statusenablelowercase"
+msgid "Enable lowercase letters in password"
+msgstr "Kleine letters in wachtwoord inschakelen"
+
+#: unitpassword.statusenablenumbers
+msgctxt "unitpassword.statusenablenumbers"
+msgid "Enable numbers in password"
+msgstr "Schakel nummers in wachtwoord in"
+
+#: unitpassword.statusenablespaces
+msgctxt "unitpassword.statusenablespaces"
+msgid "Enable spaces   *note: Not all websites allow spaces in passwords"
+msgstr "Spaties inschakelen * Opmerking: niet alle websites staan ​​spaties toe in wachtwoorden"
+
+#: unitpassword.statusenablesymbols
+msgctxt "unitpassword.statusenablesymbols"
+msgid "Enable symbols / special characters in password"
+msgstr "Schakel symbolen / speciale tekens in wachtwoord in"
+
+#: unitpassword.statusenableuppercase
+msgctxt "unitpassword.statusenableuppercase"
+msgid "Enable uppercase letters in password"
+msgstr "Hoofdletters in wachtwoord inschakelen"
+
+#: unitpassword.statusselectpwlength
+msgctxt "unitpassword.statusselectpwlength"
+msgid "Select number of characters in password"
+msgstr "Selecteer het aantal tekens in het wachtwoord"
+
+#: unitpassword.strongpw
+msgctxt "unitpassword.strongpw"
+msgid "Strong password"
+msgstr "Sterk wachtwoord"
+
+#: unitpassword.verystrongpw
+msgctxt "unitpassword.verystrongpw"
+msgid "Very strong password"
+msgstr "Zeer sterk wachtwoord"
+
+#: unitpassword.veryweakpw
+msgctxt "unitpassword.veryweakpw"
+msgid "Very weak password"
+msgstr "Zeer zwak wachtwoord"
+
+#: unitpassword.weakpw
+msgctxt "unitpassword.weakpw"
+msgid "Weak password"
+msgstr "Zwak wachtwoord"
+
+#: unittranslate.addentrypwgeneratorcaption
+msgctxt "unittranslate.addentrypwgeneratorcaption"
+msgid "Add Entry / Password Generator"
+msgstr "Invoer- / wachtwoordgenerator toevoegen"
+
+#: unittranslate.averagepw
+msgctxt "unittranslate.averagepw"
+msgid "Average strength password"
+msgstr "Gemiddeld wachtwoord voor sterkte"
+
+#: unittranslate.changecaption
+msgctxt "unittranslate.changecaption"
+msgid "Change password"
+msgstr "Verander wachtwoord"
+
+#: unittranslate.closepwgenerator
+msgctxt "unittranslate.closepwgenerator"
+msgid "Close password generator"
+msgstr "Sluit wachtwoordgenerator"
+
+#: unittranslate.completeallfields
+msgctxt "unittranslate.completeallfields"
+msgid "Please complete all fields to add a new entry"
+msgstr "Vul alle velden in om een ​​nieuw item toe te voegen"
+
+#: unittranslate.confirmcaption
+msgctxt "unittranslate.confirmcaption"
+msgid "Confirm password"
+msgstr "Bevestig wachtwoord"
+
+#: unittranslate.copypwtoclipboard
+msgctxt "unittranslate.copypwtoclipboard"
+msgid "Copy password to clipboard"
+msgstr "Kopieer het wachtwoord naar het klembord"
+
+#: unittranslate.copytocboard
+msgctxt "unittranslate.copytocboard"
+msgid "Copy to the clipboard"
+msgstr "Kopiëren naar het klembord"
+
+#: unittranslate.createcaption
+msgctxt "unittranslate.createcaption"
+msgid "Create a new file"
+msgstr "Maak een nieuw bestand"
+
+#: unittranslate.dontmatch
+msgctxt "unittranslate.dontmatch"
+msgid "Passwords do not match\n"
+"LazLock will now exit\n"
+""
+msgstr "Wachtwoorden komen niet overeen\n"
+"LazLock zal nu afsluiten\n"
+""
+
+#: unittranslate.editentrypwgeneratorcaption
+msgid "Edit Entry / Password Generator"
+msgstr "Invoer- / wachtwoordgenerator bewerken"
+
+#: unittranslate.enterpw
+msgctxt "unittranslate.enterpw"
+msgid "Please enter your password."
+msgstr "Voer uw wachtwoord in."
+
+#: unittranslate.enterpwcaption
+msgctxt "unittranslate.enterpwcaption"
+msgid "Enter password"
+msgstr "Voer wachtwoord in"
+
+#: unittranslate.exitdecryptmessage
+msgctxt "unittranslate.exitdecryptmessage"
+msgid "Incorrect password entered.\n"
+"LazLock will now quit.\n"
+""
+msgstr "Onjuist wachtwoord ingevoerd.\n"
+"LazLock zal nu stoppen.\n"
+""
+
+#: unittranslate.generaterandompw
+msgctxt "unittranslate.generaterandompw"
+msgid "Generate a random password"
+msgstr "Genereer een willekeurig wachtwoord"
+
+#: unittranslate.lblall
+msgctxt "unittranslate.lblall"
+msgid "All"
+msgstr "Alle"
+
+#: unittranslate.lblbanking
+msgctxt "unittranslate.lblbanking"
+msgid "Banking"
+msgstr "bank"
+
+#: unittranslate.lbleducation
+msgctxt "unittranslate.lbleducation"
+msgid "Education"
+msgstr "Onderwijs"
+
+#: unittranslate.lblemail
+msgctxt "unittranslate.lblemail"
+msgid "Email"
+msgstr "E-mail"
+
+#: unittranslate.lblmedia
+msgctxt "unittranslate.lblmedia"
+msgid "Media"
+msgstr "Media"
+
+#: unittranslate.lblother
+msgctxt "unittranslate.lblother"
+msgid "Other"
+msgstr "anders"
+
+#: unittranslate.lblshopping
+msgctxt "unittranslate.lblshopping"
+msgid "Shopping"
+msgstr "Boodschappen doen"
+
+#: unittranslate.lblsocialmedia
+msgctxt "unittranslate.lblsocialmedia"
+msgid "Social Media"
+msgstr "Sociale media"
+
+#: unittranslate.lblsoftware
+msgctxt "unittranslate.lblsoftware"
+msgid "Software"
+msgstr "Software"
+
+#: unittranslate.lblweb
+msgctxt "unittranslate.lblweb"
+msgid "Web"
+msgstr "Web"
+
+#: unittranslate.lblwork
+msgctxt "unittranslate.lblwork"
+msgid "Work"
+msgstr "Werk"
+
+#: unittranslate.letsbegin
+msgctxt "unittranslate.letsbegin"
+msgid "Let's begin"
+msgstr "Laten we beginnen"
+
+#: unittranslate.msgareyousure
+msgid "Are you sure you want to delete "
+msgstr "Weet je zeker dat je wilt verwijderen"
+
+#: unittranslate.msgfilehasbeenchanged
+msgid "Your LazLock file has been changed.\n"
+"Do you want to save before you exit?\n"
+""
+msgstr "Je LazLock-bestand is gewijzigd.\n"
+"Wilt u opslaan voordat u afsluit?\n"
+""
+
+#: unittranslate.msgsavechanges
+msgid "Save changes?"
+msgstr "Wijzigingen opslaan?"
+
+#: unittranslate.newpw1message
+msgctxt "unittranslate.newpw1message"
+msgid "Enter a new password to encrypt this file."
+msgstr "Voer een nieuw wachtwoord in om dit bestand te versleutelen."
+
+#: unittranslate.newvaultmessage
+msgctxt "unittranslate.newvaultmessage"
+msgid "A new LazLock vault will be created.\n"
+"Please enter a new password that will be used to protect your data.\n"
+"\n"
+"IT IS IMPORTANT THAT YOU NEVER FORGET THIS PASSWORD.\n"
+"To protect your privacy, LazLock will not create a backup of your password.\n"
+""
+msgstr "Er wordt een nieuwe LazLock-kluis gemaakt.\n"
+"Voer een nieuw wachtwoord in dat zal worden gebruikt om uw gegevens te beschermen.\n"
+"\n"
+"HET IS BELANGRIJK DAT U NOOIT HETZE WACHTWOORD VERGEET.\n"
+"Om uw privacy te beschermen, maakt LazLock geen back-up van uw wachtwoord.\n"
+""
+
+#: unittranslate.nochangemessage
+msgctxt "unittranslate.nochangemessage"
+msgid "Passwords do not match.\n"
+"Current password has not been changed.\n"
+""
+msgstr "Wachtwoorden komen niet overeen.\n"
+"Huidig ​​wachtwoord is niet gewijzigd.\n"
+""
+
+#: unittranslate.noentrymessage
+msgctxt "unittranslate.noentrymessage"
+msgid "No entry selected"
+msgstr "Geen invoer geselecteerd"
+
+#: unittranslate.nopasswordexit
+msgctxt "unittranslate.nopasswordexit"
+msgid "No password entered, LazLock will exit"
+msgstr "Geen wachtwoord ingevoerd, LazLock zal afsluiten"
+
+#: unittranslate.openlinkdefaultbrowser
+msgctxt "unittranslate.openlinkdefaultbrowser"
+msgid "Open link in default web browser"
+msgstr "Open link in standaard webbrowser"
+
+#: unittranslate.openpwgeneratorcaption
+msgctxt "unittranslate.openpwgeneratorcaption"
+msgid "Open Password Generator"
+msgstr "Open wachtwoordgenerator"
+
+#: unittranslate.pwgeneratorcaption
+msgctxt "unittranslate.pwgeneratorcaption"
+msgid "Password Generator"
+msgstr "Wachtwoord generator"
+
+#: unittranslate.reenterpw
+msgctxt "unittranslate.reenterpw"
+msgid "Please re-enter the password to confirm."
+msgstr "Voer het wachtwoord opnieuw in om te bevestigen."
+
+#: unittranslate.selectpwcharacters
+msgctxt "unittranslate.selectpwcharacters"
+msgid "Please select which characters to include in your password."
+msgstr "Selecteer de tekens die u in uw wachtwoord wilt opnemen."
+
+#: unittranslate.statusaddentry
+msgctxt "unittranslate.statusaddentry"
+msgid "Add a new entry"
+msgstr "Voeg een nieuw item toe"
+
+#: unittranslate.statuseditentry
+msgctxt "unittranslate.statuseditentry"
+msgid "Edit an entry"
+msgstr "Bewerk een item"
+
+#: unittranslate.statusenablebrackets
+msgctxt "unittranslate.statusenablebrackets"
+msgid "Enable brackets in password"
+msgstr "Schakel haakjes in wachtwoord in"
+
+#: unittranslate.statusenablelowercase
+msgctxt "unittranslate.statusenablelowercase"
+msgid "Enable lowercase letters in password"
+msgstr "Kleine letters in wachtwoord inschakelen"
+
+#: unittranslate.statusenablenumbers
+msgctxt "unittranslate.statusenablenumbers"
+msgid "Enable numbers in password"
+msgstr "Schakel nummers in wachtwoord in"
+
+#: unittranslate.statusenablespaces
+msgctxt "unittranslate.statusenablespaces"
+msgid "Enable spaces   *note: Not all websites allow spaces in passwords"
+msgstr "Spaties inschakelen * Opmerking: niet alle websites staan ​​spaties toe in wachtwoorden"
+
+#: unittranslate.statusenablesymbols
+msgctxt "unittranslate.statusenablesymbols"
+msgid "Enable symbols / special characters in password"
+msgstr "Schakel symbolen / speciale tekens in wachtwoord in"
+
+#: unittranslate.statusenableuppercase
+msgctxt "unittranslate.statusenableuppercase"
+msgid "Enable uppercase letters in password"
+msgstr "Hoofdletters in wachtwoord inschakelen"
+
+#: unittranslate.statusexitlazlock
+msgctxt "unittranslate.statusexitlazlock"
+msgid "Exit LazLock"
+msgstr "LazLock verlaten"
+
+#: unittranslate.statusremoveentry
+msgctxt "unittranslate.statusremoveentry"
+msgid "Remove an entry"
+msgstr "Verwijder een item"
+
+#: unittranslate.statussaveencrypt
+msgctxt "unittranslate.statussaveencrypt"
+msgid "Save and encrypt database"
+msgstr "Sla de database op en codeer deze"
+
+#: unittranslate.statusselectpwlength
+msgctxt "unittranslate.statusselectpwlength"
+msgid "Select number of characters in password"
+msgstr "Selecteer het aantal tekens in het wachtwoord"
+
+#: unittranslate.strongpw
+msgctxt "unittranslate.strongpw"
+msgid "Strong password"
+msgstr "Sterk wachtwoord"
+
+#: unittranslate.verystrongpw
+msgctxt "unittranslate.verystrongpw"
+msgid "Very strong password"
+msgstr "Zeer sterk wachtwoord"
+
+#: unittranslate.veryweakpw
+msgctxt "unittranslate.veryweakpw"
+msgid "Very weak password"
+msgstr "Zeer zwak wachtwoord"
+
+#: unittranslate.weakpw
+msgctxt "unittranslate.weakpw"
+msgid "Weak password"
+msgstr "Zwak wachtwoord"
+
+#: unittranslate.welcomemessagedialog
+msgctxt "unittranslate.welcomemessagedialog"
+msgid "Welcome to LazLock Password Manager\n"
+"A new vault has been created for you to begin storing your passwords.\n"
+"Do you wish to view the online help?\n"
+""
+msgstr "Welkom bij LazLock Password Manager\n"
+"Er is een nieuwe kluis voor u gemaakt om te beginnen met het opslaan van uw wachtwoorden.\n"
+"Wilt u de online hulp bekijken?\n"
+""
+
+#: tmainlazlock.menuitem2.caption
+msgctxt "tmainlazlock.menuitem2.caption"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.menuitem4.caption
+msgctxt "tmainlazlock.menuitem4.caption"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.menuitem7.caption
+msgctxt "tmainlazlock.menuitem7.caption"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.rcmmnuopenurl.caption
+msgctxt "tmainlazlock.rcmmnuopenurl.caption"
+msgid "Open in browser"
+msgstr "Open in de browser"
+
+#: tmainlazlock.rcmnuopenurl.caption
+msgctxt "tmainlazlock.rcmnuopenurl.caption"
+msgid "Open in browser"
+msgstr "Open in de browser"
+
+#: tmainlazlock.stmmnuaddentry.caption
+msgctxt "tmainlazlock.stmmnuaddentry.caption"
+msgid "Add Entry"
+msgstr "Voeg invoer toe"
+
+#: tmainlazlock.stmmnupwgen.caption
+msgctxt "tmainlazlock.stmmnupwgen.caption"
+msgid "Password Generator"
+msgstr "Wachtwoord generator"
+
+#: tpasswordgenerator.edname1.caption
+msgctxt "tpasswordgenerator.edname1.caption"
+msgid "Name of Site"
+msgstr "Naam van de site"
+
+#: tpasswordgenerator.edname2.caption
+msgctxt "tpasswordgenerator.edname2.caption"
+msgid "Name of Site"
+msgstr "Naam van de site"
+
+#: tpasswordgenerator.ednamea.texthint
+msgid "eg Cpunk-Security"
+msgstr "bijv. Cpunk-beveiliging"
+
+#: tpasswordgenerator.edpassword1.caption
+msgctxt "tpasswordgenerator.edpassword1.caption"
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: tpasswordgenerator.edpassword2.caption
+msgctxt "tpasswordgenerator.edpassword2.caption"
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: tpasswordgenerator.edurl1.caption
+msgctxt "tpasswordgenerator.edurl1.caption"
+msgid "URL"
+msgstr "URL"
+
+#: tpasswordgenerator.edurl2.caption
+msgctxt "tpasswordgenerator.edurl2.caption"
+msgid "URL"
+msgstr "URL"
+
+#: tpasswordgenerator.edurla.texthint
+msgid "https://www.cpunk-security.com/"
+msgstr "https://www.cpunk-security.com/"
+
+#: tpasswordgenerator.eduser1.caption
+msgctxt "tpasswordgenerator.eduser1.caption"
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: tpasswordgenerator.eduser2.caption
+msgctxt "tpasswordgenerator.eduser2.caption"
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: tmainlazlock.menuitem11.caption
+msgctxt "tmainlazlock.menuitem11.caption"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.menuitem6.caption
+msgctxt "tmainlazlock.menuitem6.caption"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.rcmmnucopypw.caption
+msgctxt "tmainlazlock.rcmmnucopypw.caption"
+msgid "Copy Password"
+msgstr "Wachtwoord kopiëren"
+
+#: tmainlazlock.rcmmnucopyurl.caption
+msgctxt "tmainlazlock.rcmmnucopyurl.caption"
+msgid "Copy URL"
+msgstr "Kopiera URL"
+
+#: tmainlazlock.rcmmnucopyuser.caption
+msgctxt "tmainlazlock.rcmmnucopyuser.caption"
+msgid "Copy Username"
+msgstr "Kopieer gebruikersnaam"
+
+#: tmainlazlock.rcmnucopypassword.caption
+msgctxt "tmainlazlock.rcmnucopypassword.caption"
+msgid "Copy Password"
+msgstr "Wachtwoord kopiëren"
+
+#: tmainlazlock.rcmnucopyurl.caption
+msgctxt "tmainlazlock.rcmnucopyurl.caption"
+msgid "Copy URL"
+msgstr "Kopiera URL"
+
+#: tmainlazlock.rcmnucopyusername.caption
+msgctxt "tmainlazlock.rcmnucopyusername.caption"
+msgid "Copy Username"
+msgstr "Kopieer gebruikersnaam"
+
+#: tmainlazlock.stmmnuexit.caption
+msgctxt "tmainlazlock.stmmnuexit.caption"
+msgid "Exit LazLock"
+msgstr "Avsluta LazLock"
+
+#: tpasswordgenerator.edurla.texthint
+msgctxt "tpasswordgenerator.edurla.texthint"
+msgid "https://www.cpunk-security.com/"
+msgstr "https://www.cpunk-security.com/"
+
+#: unittranslate.categoryselect
+msgctxt "unittranslate.categoryselect"
+msgid "Select"
+msgstr "kiezen"
+
+#: unittranslate.statustotalrecords
+msgid " records in LazLock"
+msgstr " records in LazLock"
+

@@ -1,0 +1,1163 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: LazLock\n"
+"Language: zh-CN\n"
+
+#: tmainlazlock.btnbanking.caption
+msgctxt "tmainlazlock.btnbanking.caption"
+msgid "Banking"
+msgstr "银行业"
+
+#: tmainlazlock.btneducation.caption
+msgctxt "tmainlazlock.btneducation.caption"
+msgid "Education"
+msgstr "教育"
+
+#: tmainlazlock.btnemail.caption
+msgctxt "tmainlazlock.btnemail.caption"
+msgid "Email"
+msgstr "电子邮件"
+
+#: tmainlazlock.btnmedia.caption
+msgctxt "tmainlazlock.btnmedia.caption"
+msgid "Media"
+msgstr "媒体"
+
+#: tmainlazlock.btnother.caption
+msgctxt "tmainlazlock.btnother.caption"
+msgid "Other"
+msgstr "其他"
+
+#: tmainlazlock.btnshopping.caption
+msgctxt "tmainlazlock.btnshopping.caption"
+msgid "Shopping"
+msgstr "购物"
+
+#: tmainlazlock.btnshowall.caption
+msgctxt "tmainlazlock.btnshowall.caption"
+msgid "All"
+msgstr "所有"
+
+#: tmainlazlock.btnsocialmedia.caption
+msgctxt "tmainlazlock.btnsocialmedia.caption"
+msgid "Social Media"
+msgstr "社交媒体"
+
+#: tmainlazlock.btnsoftware.caption
+msgctxt "tmainlazlock.btnsoftware.caption"
+msgid "Software"
+msgstr "软件"
+
+#: tmainlazlock.btnweb.caption
+msgctxt "tmainlazlock.btnweb.caption"
+msgid "Web"
+msgstr "卷筒纸"
+
+#: tmainlazlock.btnwork.caption
+msgctxt "tmainlazlock.btnwork.caption"
+msgid "Work"
+msgstr "工作"
+
+#: tmainlazlock.caption
+msgid "LazLock"
+msgstr "LazLock"
+
+#: tmainlazlock.categoryheader.caption
+msgid "Categories"
+msgstr "分类"
+
+#: tmainlazlock.labelpassword.caption
+msgctxt "TMAINLAZLOCK.LABELPASSWORD.CAPTION"
+msgid "Password"
+msgstr "密码"
+
+#: tmainlazlock.labelurl.caption
+msgctxt "TMAINLAZLOCK.LABELURL.CAPTION"
+msgid "URL"
+msgstr "网址"
+
+#: tmainlazlock.labeluser.caption
+msgctxt "TMAINLAZLOCK.LABELUSER.CAPTION"
+msgid "Username"
+msgstr "用户名"
+
+#: tmainlazlock.listview1.columns[0].caption
+msgctxt "tmainlazlock.listview1.columns[0].caption"
+msgid "Category"
+msgstr "类别"
+
+#: tmainlazlock.listview1.columns[1].caption
+msgid "Logins"
+msgstr "登录"
+
+#: tmainlazlock.listview1.columns[2].caption
+msgctxt "tmainlazlock.listview1.columns[2].caption"
+msgid "URL"
+msgstr "网址"
+
+#: tmainlazlock.listview1.columns[3].caption
+msgctxt "tmainlazlock.listview1.columns[3].caption"
+msgid "Username"
+msgstr "用户名"
+
+#: tmainlazlock.listview1.columns[4].caption
+msgctxt "tmainlazlock.listview1.columns[4].caption"
+msgid "Password"
+msgstr "密码"
+
+#: tmainlazlock.listview1.columns[5].caption
+msgid "Image"
+msgstr "图片"
+
+#: tmainlazlock.menuitem1.caption
+msgctxt "tmainlazlock.menuitem1.caption"
+msgid "-"
+msgstr " - "
+
+#: tmainlazlock.menuitem3.caption
+msgctxt "TMAINLAZLOCK.MENUITEM3.CAPTION"
+msgid "-"
+msgstr " - "
+
+#: tmainlazlock.menuitem5.caption
+msgctxt "TMAINLAZLOCK.MENUITEM5.CAPTION"
+msgid "-"
+msgstr " - "
+
+#: tmainlazlock.mnuabout.caption
+msgid "About"
+msgstr "关于"
+
+#: tmainlazlock.mnuadd.caption
+msgctxt "tmainlazlock.mnuadd.caption"
+msgid "Add Entry"
+msgstr "添加条目"
+
+#: tmainlazlock.mnuadd.hint
+msgctxt "tmainlazlock.mnuadd.hint"
+msgid "Add a new entry"
+msgstr "添加一个新条目"
+
+#: tmainlazlock.mnubackup.caption
+msgid "Create backup"
+msgstr "创建备份"
+
+#: tmainlazlock.mnuchangepw.caption
+msgid "Change Password"
+msgstr "更改密码"
+
+#: tmainlazlock.mnudelete.caption
+msgctxt "tmainlazlock.mnudelete.caption"
+msgid "Delete Entry"
+msgstr "删除条目"
+
+#: tmainlazlock.mnudelete.hint
+msgctxt "tmainlazlock.mnudelete.hint"
+msgid "Remove an entry"
+msgstr "删除一个条目"
+
+#: tmainlazlock.mnuedit.caption
+msgctxt "tmainlazlock.mnuedit.caption"
+msgid "Edit Entry"
+msgstr "编辑条目"
+
+#: tmainlazlock.mnuedit.hint
+msgctxt "tmainlazlock.mnuedit.hint"
+msgid "Edit an entry"
+msgstr "编辑一个条目"
+
+#: tmainlazlock.mnueditdropdown.caption
+msgid "&Edit"
+msgstr "＆编辑"
+
+#: tmainlazlock.mnuexit.caption
+msgid "E&xit"
+msgstr "出口"
+
+#: tmainlazlock.mnuexit.hint
+msgctxt "tmainlazlock.mnuexit.hint"
+msgid "Exit LazLock"
+msgstr "退出LazLock"
+
+#: tmainlazlock.mnuexporttext.caption
+msgid "Export as plain text"
+msgstr "以纯文本格式导出"
+
+#: tmainlazlock.mnufile.caption
+msgid "&File"
+msgstr "＆文件"
+
+#: tmainlazlock.mnuhelp.caption
+msgid "&Help"
+msgstr "＆帮帮我"
+
+#: tmainlazlock.mnuhelpdivider.caption
+msgctxt "TMAINLAZLOCK.MNUHELPDIVIDER.CAPTION"
+msgid "-"
+msgstr " - "
+
+#: tmainlazlock.mnuonlinehelp.caption
+msgid "Online help"
+msgstr "网上帮助"
+
+#: tmainlazlock.mnupwgenerator.caption
+msgctxt "tmainlazlock.mnupwgenerator.caption"
+msgid "Password Generator"
+msgstr "密码生成器"
+
+#: tmainlazlock.mnupwgenerator.hint
+msgctxt "tmainlazlock.mnupwgenerator.hint"
+msgid "Open Password Generator"
+msgstr "打开密码生成器"
+
+#: tmainlazlock.mnusave.caption
+msgid "Encrypt and &Save"
+msgstr "加密和保存"
+
+#: tmainlazlock.mnusave.hint
+msgctxt "tmainlazlock.mnusave.hint"
+msgid "Save and encrypt database"
+msgstr "保存并加密数据库"
+
+#: tmainlazlock.mnuseparator.caption
+msgctxt "TMAINLAZLOCK.MNUSEPARATOR.CAPTION"
+msgid "-"
+msgstr " - "
+
+#: tmainlazlock.rcmmnuaddentry.caption
+msgctxt "TMAINLAZLOCK.RCMMNUADDENTRY.CAPTION"
+msgid "Add Entry"
+msgstr "添加条目"
+
+#: tmainlazlock.rcmmnupwgen.caption
+msgctxt "TMAINLAZLOCK.RCMMNUPWGEN.CAPTION"
+msgid "Password Generator"
+msgstr "密码生成器"
+
+#: tmainlazlock.rcmnuaddentry.caption
+msgctxt "TMAINLAZLOCK.RCMNUADDENTRY.CAPTION"
+msgid "Add Entry"
+msgstr "添加条目"
+
+#: tmainlazlock.rcmnucopypassword.caption
+msgid "Copy Password"
+msgstr "复制密码"
+
+#: tmainlazlock.rcmnucopyurl.caption
+msgid "Copy URL"
+msgstr "复制网址"
+
+#: tmainlazlock.rcmnucopyusername.caption
+msgid "Copy Username"
+msgstr "复制用户名"
+
+#: tmainlazlock.rcmnudeleteentry.caption
+msgctxt "TMAINLAZLOCK.RCMNUDELETEENTRY.CAPTION"
+msgid "Delete Entry"
+msgstr "删除条目"
+
+#: tmainlazlock.rcmnueditentry.caption
+msgctxt "TMAINLAZLOCK.RCMNUEDITENTRY.CAPTION"
+msgid "Edit Entry"
+msgstr "编辑条目"
+
+#: tmainlazlock.rcmnupwgenerator.caption
+msgctxt "TMAINLAZLOCK.RCMNUPWGENERATOR.CAPTION"
+msgid "Password Generator"
+msgstr "密码生成器"
+
+#: tmainlazlock.savedialog1.title
+msgid "Save unencrypted text file as"
+msgstr "将未加密的文本文件保存为"
+
+#: tmainlazlock.tbdivider1.caption
+msgid "TBdivider1"
+msgstr "TBdivider1"
+
+#: tmainlazlock.tbdivider2.caption
+msgid "TBdivider2"
+msgstr "TBdivider2"
+
+#: tmainlazlock.tbdivider3.caption
+msgid "TBdivider3"
+msgstr "TBdivider3"
+
+#: tmainlazlock.tbquit.caption
+msgid "TBQuit"
+msgstr "TBQuit"
+
+#: tmainlazlock.tbsave.caption
+msgid "TBSave"
+msgstr "TBSave"
+
+#: tmainlazlock.toolbar1.caption
+msgid "ToolBar1"
+msgstr "ToolBar1"
+
+#: tpasswordgenerator.abox.caption
+msgid "Symbols"
+msgstr "符号"
+
+#: tpasswordgenerator.bbox.caption
+msgid "Numbers"
+msgstr "数字"
+
+#: tpasswordgenerator.btnadd.caption
+msgid "Add"
+msgstr "加"
+
+#: tpasswordgenerator.btncancel.caption
+msgctxt "tpasswordgenerator.btncancel.caption"
+msgid "Cancel"
+msgstr "取消"
+
+#: tpasswordgenerator.btncancel2.caption
+msgctxt "tpasswordgenerator.btncancel2.caption"
+msgid "Cancel"
+msgstr "取消"
+
+#: tpasswordgenerator.btnclose.caption
+msgid "Close"
+msgstr "关"
+
+#: tpasswordgenerator.btncopy.caption
+msgid "Copy"
+msgstr "复制"
+
+#: tpasswordgenerator.btngenpw.caption
+msgid "Generate password"
+msgstr "生成密码"
+
+#: tpasswordgenerator.btnsavechanges.caption
+msgid "Save changes"
+msgstr "保存更改"
+
+#: tpasswordgenerator.caption
+msgctxt "tpasswordgenerator.caption"
+msgid "Add Entry / Password Generator"
+msgstr "添加条目/密码生成器"
+
+#: tpasswordgenerator.cbox.caption
+msgid "Uppercase"
+msgstr "大写"
+
+#: tpasswordgenerator.dbox.caption
+msgid "Lowercase"
+msgstr "小写"
+
+#: tpasswordgenerator.ebox.caption
+msgid "Brackets"
+msgstr "括号"
+
+#: tpasswordgenerator.edcategory.text
+msgctxt "tpasswordgenerator.edcategory.text"
+msgid "Select"
+msgstr "选择"
+
+#: tpasswordgenerator.edcategory2.text
+msgctxt "tpasswordgenerator.edcategory2.text"
+msgid "Select"
+msgstr "选择"
+
+#: tpasswordgenerator.edimage.hint
+msgctxt "tpasswordgenerator.edimage.hint"
+msgid "Select an icon"
+msgstr "选择一个图标"
+
+#: tpasswordgenerator.edimage2.hint
+msgctxt "tpasswordgenerator.edimage2.hint"
+msgid "Select an icon"
+msgstr "选择一个图标"
+
+#: tpasswordgenerator.edname.editlabel.caption
+msgctxt "tpasswordgenerator.edname.editlabel.caption"
+msgid "Name of site"
+msgstr "网站名称"
+
+#: tpasswordgenerator.edname.texthint
+msgctxt "tpasswordgenerator.edname.texthint"
+msgid "e.g.  CPunk-Security"
+msgstr "例如CPunk-安全"
+
+#: tpasswordgenerator.edname2.editlabel.caption
+msgctxt "tpasswordgenerator.edname2.editlabel.caption"
+msgid "Name of site"
+msgstr "网站名称"
+
+#: tpasswordgenerator.edname2.texthint
+msgctxt "tpasswordgenerator.edname2.texthint"
+msgid "e.g.  CPunk-Security"
+msgstr "例如CPunk-安全"
+
+#: tpasswordgenerator.edpassword.editlabel.caption
+msgctxt "tpasswordgenerator.edpassword.editlabel.caption"
+msgid "Password"
+msgstr "密码"
+
+#: tpasswordgenerator.edpassword2.editlabel.caption
+msgctxt "tpasswordgenerator.edpassword2.editlabel.caption"
+msgid "Password"
+msgstr "密码"
+
+#: tpasswordgenerator.edurl.editlabel.caption
+msgctxt "tpasswordgenerator.edurl.editlabel.caption"
+msgid "Web address"
+msgstr "网址"
+
+#: tpasswordgenerator.edurl.texthint
+msgctxt "tpasswordgenerator.edurl.texthint"
+msgid "https://www.cpunk-security.com/"
+msgstr "https://www.cpunk-security.com/"
+
+#: tpasswordgenerator.edurl2.editlabel.caption
+msgctxt "tpasswordgenerator.edurl2.editlabel.caption"
+msgid "Web address"
+msgstr "网址"
+
+#: tpasswordgenerator.edurl2.texthint
+msgctxt "tpasswordgenerator.edurl2.texthint"
+msgid "https://www.cpunk-security.com/"
+msgstr "https://www.cpunk-security.com/"
+
+#: tpasswordgenerator.eduser.editlabel.caption
+msgctxt "tpasswordgenerator.eduser.editlabel.caption"
+msgid "Username"
+msgstr "用户名"
+
+#: tpasswordgenerator.eduser2.editlabel.caption
+msgctxt "tpasswordgenerator.eduser2.editlabel.caption"
+msgid "Username"
+msgstr "用户名"
+
+#: tpasswordgenerator.fbox.caption
+msgid "Spaces"
+msgstr "空间"
+
+#: tpasswordgenerator.label1.caption
+msgid "Length of password"
+msgstr "密码长度"
+
+#: tpasswordgenerator.label2.caption
+msgctxt "tpasswordgenerator.label2.caption"
+msgid "Generate a random password"
+msgstr "生成一个随机密码"
+
+#: tpasswordgenerator.lblcategory.caption
+msgctxt "tpasswordgenerator.lblcategory.caption"
+msgid "Category"
+msgstr "类别"
+
+#: tpasswordgenerator.lblcategory2.caption
+msgctxt "tpasswordgenerator.lblcategory2.caption"
+msgid "Category"
+msgstr "类别"
+
+#: tpasswordgenerator.lblicon.caption
+msgctxt "tpasswordgenerator.lblicon.caption"
+msgid "Select an icon"
+msgstr "选择一个图标"
+
+#: tpasswordgenerator.lblicon2.caption
+msgctxt "tpasswordgenerator.lblicon2.caption"
+msgid "Select an icon"
+msgstr "选择一个图标"
+
+#: tpasswordgenerator.lbltitle.caption
+msgid "Create a new entry"
+msgstr "创建一个新条目"
+
+#: tpasswordgenerator.lbltitle1.caption
+msgctxt "tpasswordgenerator.lbltitle1.caption"
+msgid "Edit Entry"
+msgstr "编辑条目"
+
+#: tpasswordgenerator.linkpwgenerator.caption
+msgctxt "tpasswordgenerator.linkpwgenerator.caption"
+msgid "Use Password Generator"
+msgstr "使用密码生成器"
+
+#: tpasswordgenerator.linkpwgenerator2.caption
+msgctxt "tpasswordgenerator.linkpwgenerator2.caption"
+msgid "Use Password Generator"
+msgstr "使用密码生成器"
+
+#: tpasswordgenerator.optionsgroup.caption
+msgid "Password options"
+msgstr "密码选项"
+
+#: tpasswordgenerator.tabeditentry.caption
+msgctxt "tpasswordgenerator.tabeditentry.caption"
+msgid "Edit Entry"
+msgstr "编辑条目"
+
+#: tpasswordgenerator.tabenternew.caption
+msgid "Add entry"
+msgstr "添加条目"
+
+#: tpasswordgenerator.tabpwgenerator.caption
+msgctxt "tpasswordgenerator.tabpwgenerator.caption"
+msgid "Password Generator"
+msgstr "密码生成器"
+
+#: unitmain.addentrypwgeneratorcaption
+msgctxt "unitmain.addentrypwgeneratorcaption"
+msgid "Add Entry / Password Generator"
+msgstr "添加条目/密码生成器"
+
+#: unitmain.changecaption
+msgctxt "unitmain.changecaption"
+msgid "Change password"
+msgstr "更改密码"
+
+#: unitmain.confirmcaption
+msgctxt "unitmain.confirmcaption"
+msgid "Confirm password"
+msgstr "确认密码"
+
+#: unitmain.copytocboard
+msgctxt "unitmain.copytocboard"
+msgid "Copy to the clipboard"
+msgstr "复制到剪贴板"
+
+#: unitmain.createcaption
+msgctxt "unitmain.createcaption"
+msgid "Create a new file"
+msgstr "创建一个新文件"
+
+#: unitmain.dontmatch
+msgctxt "unitmain.dontmatch"
+msgid "Passwords do not match\n"
+"LazLock will now exit\n"
+""
+msgstr "密码不匹配\n"
+"LazLock现在将退出\n"
+""
+
+#: unitmain.enterpw
+msgctxt "unitmain.enterpw"
+msgid "Please enter your password."
+msgstr "请输入您的密码。"
+
+#: unitmain.enterpwcaption
+msgctxt "unitmain.enterpwcaption"
+msgid "Enter password"
+msgstr "输入密码"
+
+#: unitmain.exitdecryptmessage
+msgctxt "unitmain.exitdecryptmessage"
+msgid "Incorrect password entered.\n"
+"LazLock will now quit.\n"
+""
+msgstr "输入的密码不正确\n"
+"LazLock现在将退出。\n"
+""
+
+#: unitmain.letsbegin
+msgctxt "unitmain.letsbegin"
+msgid "Let's begin"
+msgstr "让我们开始"
+
+#: unitmain.newpw1message
+msgctxt "unitmain.newpw1message"
+msgid "Enter a new password to encrypt this file."
+msgstr "输入一个新的密码来加密这个文件。"
+
+#: unitmain.newvaultmessage
+msgctxt "unitmain.newvaultmessage"
+msgid "A new LazLock vault will be created.\n"
+"Please enter a new password that will be used to protect your data.\n"
+"\n"
+"IT IS IMPORTANT THAT YOU NEVER FORGET THIS PASSWORD.\n"
+"To protect your privacy, LazLock will not create a backup of your password.\n"
+""
+msgstr "新的LazLock库将被创建。\n"
+"请输入用于保护您的数据的新密​​码。\n"
+"\n"
+"重要的是你永远不要忘记这个密码。\n"
+"为了保护您的隐私，LazLock不会创建密码的备份。\n"
+""
+
+#: unitmain.nochangemessage
+msgctxt "unitmain.nochangemessage"
+msgid "Passwords do not match.\n"
+"Current password has not been changed.\n"
+""
+msgstr "密码不匹配。\n"
+"当前密码未被更改。\n"
+""
+
+#: unitmain.noentrymessage
+msgctxt "unitmain.noentrymessage"
+msgid "No entry selected"
+msgstr "没有选择条目"
+
+#: unitmain.nopasswordexit
+msgctxt "unitmain.nopasswordexit"
+msgid "No password entered, LazLock will exit"
+msgstr "没有输入密码，LazLock将退出"
+
+#: unitmain.openlinkdefaultbrowser
+msgctxt "unitmain.openlinkdefaultbrowser"
+msgid "Open link in default web browser"
+msgstr "在默认网页浏览器中打开链接"
+
+#: unitmain.reenterpw
+msgctxt "unitmain.reenterpw"
+msgid "Please re-enter the password to confirm."
+msgstr "请重新输入密码确认。"
+
+#: unitmain.welcomemessagedialog
+msgctxt "unitmain.welcomemessagedialog"
+msgid "Welcome to LazLock Password Manager\n"
+"A new vault has been created for you to begin storing your passwords.\n"
+"Do you wish to view the online help?\n"
+""
+msgstr "欢迎来到LazLock密码管理器\n"
+"已经为您创建了一个新的保管库，以开始存储您的密码。\n"
+"你想查看在线帮助吗？\n"
+""
+
+#: unitpassword.averagepw
+msgctxt "unitpassword.averagepw"
+msgid "Average strength password"
+msgstr "平均强度密码"
+
+#: unitpassword.closepwgenerator
+msgctxt "unitpassword.closepwgenerator"
+msgid "Close password generator"
+msgstr "关闭密码生成器"
+
+#: unitpassword.completeallfields
+msgctxt "unitpassword.completeallfields"
+msgid "Please complete all fields to add a new entry"
+msgstr "请填写所有字段以添加新条目"
+
+#: unitpassword.copypwtoclipboard
+msgctxt "unitpassword.copypwtoclipboard"
+msgid "Copy password to clipboard"
+msgstr "将密码复制到剪贴板"
+
+#: unitpassword.generaterandompw
+msgctxt "unitpassword.generaterandompw"
+msgid "Generate a random password"
+msgstr "生成一个随机密码"
+
+#: unitpassword.selectpwcharacters
+msgctxt "unitpassword.selectpwcharacters"
+msgid "Please select which characters to include in your password."
+msgstr "请选择您的密码中包含哪些字符。"
+
+#: unitpassword.statusenablebrackets
+msgctxt "unitpassword.statusenablebrackets"
+msgid "Enable brackets in password"
+msgstr "在密码中启用括号"
+
+#: unitpassword.statusenablelowercase
+msgctxt "unitpassword.statusenablelowercase"
+msgid "Enable lowercase letters in password"
+msgstr "在密码中启用小写字母"
+
+#: unitpassword.statusenablenumbers
+msgctxt "unitpassword.statusenablenumbers"
+msgid "Enable numbers in password"
+msgstr "在密码中启用数字"
+
+#: unitpassword.statusenablespaces
+msgctxt "unitpassword.statusenablespaces"
+msgid "Enable spaces   *note: Not all websites allow spaces in passwords"
+msgstr "启用空格*注意：并非所有网站都允许使用密码空格"
+
+#: unitpassword.statusenablesymbols
+msgctxt "unitpassword.statusenablesymbols"
+msgid "Enable symbols / special characters in password"
+msgstr "在密码中启用符号/特殊字符"
+
+#: unitpassword.statusenableuppercase
+msgctxt "unitpassword.statusenableuppercase"
+msgid "Enable uppercase letters in password"
+msgstr "在密码中启用大写字母"
+
+#: unitpassword.statusselectpwlength
+msgctxt "unitpassword.statusselectpwlength"
+msgid "Select number of characters in password"
+msgstr "选择密码中的字符数"
+
+#: unitpassword.strongpw
+msgctxt "unitpassword.strongpw"
+msgid "Strong password"
+msgstr "强大的密码"
+
+#: unitpassword.verystrongpw
+msgctxt "unitpassword.verystrongpw"
+msgid "Very strong password"
+msgstr "非常强大的密码"
+
+#: unitpassword.veryweakpw
+msgctxt "unitpassword.veryweakpw"
+msgid "Very weak password"
+msgstr "密码非常弱"
+
+#: unitpassword.weakpw
+msgctxt "unitpassword.weakpw"
+msgid "Weak password"
+msgstr "密码强度低"
+
+#: unittranslate.addentrypwgeneratorcaption
+msgctxt "unittranslate.addentrypwgeneratorcaption"
+msgid "Add Entry / Password Generator"
+msgstr "添加条目/密码生成器"
+
+#: unittranslate.averagepw
+msgctxt "unittranslate.averagepw"
+msgid "Average strength password"
+msgstr "平均强度密码"
+
+#: unittranslate.changecaption
+msgctxt "unittranslate.changecaption"
+msgid "Change password"
+msgstr "更改密码"
+
+#: unittranslate.closepwgenerator
+msgctxt "unittranslate.closepwgenerator"
+msgid "Close password generator"
+msgstr "关闭密码生成器"
+
+#: unittranslate.completeallfields
+msgctxt "unittranslate.completeallfields"
+msgid "Please complete all fields to add a new entry"
+msgstr "请填写所有字段以添加新条目"
+
+#: unittranslate.confirmcaption
+msgctxt "unittranslate.confirmcaption"
+msgid "Confirm password"
+msgstr "确认密码"
+
+#: unittranslate.copypwtoclipboard
+msgctxt "unittranslate.copypwtoclipboard"
+msgid "Copy password to clipboard"
+msgstr "将密码复制到剪贴板"
+
+#: unittranslate.copytocboard
+msgctxt "unittranslate.copytocboard"
+msgid "Copy to the clipboard"
+msgstr "复制到剪贴板"
+
+#: unittranslate.createcaption
+msgctxt "unittranslate.createcaption"
+msgid "Create a new file"
+msgstr "创建一个新文件"
+
+#: unittranslate.dontmatch
+msgctxt "unittranslate.dontmatch"
+msgid "Passwords do not match\n"
+"LazLock will now exit\n"
+""
+msgstr "密码不匹配\n"
+"LazLock现在将退出\n"
+""
+
+#: unittranslate.editentrypwgeneratorcaption
+msgid "Edit Entry / Password Generator"
+msgstr "编辑条目/密码生成器"
+
+#: unittranslate.enterpw
+msgctxt "unittranslate.enterpw"
+msgid "Please enter your password."
+msgstr "请输入您的密码。"
+
+#: unittranslate.enterpwcaption
+msgctxt "unittranslate.enterpwcaption"
+msgid "Enter password"
+msgstr "输入密码"
+
+#: unittranslate.exitdecryptmessage
+msgctxt "unittranslate.exitdecryptmessage"
+msgid "Incorrect password entered.\n"
+"LazLock will now quit.\n"
+""
+msgstr "输入的密码不正确\n"
+"LazLock现在将退出。\n"
+""
+
+#: unittranslate.generaterandompw
+msgctxt "unittranslate.generaterandompw"
+msgid "Generate a random password"
+msgstr "生成一个随机密码"
+
+#: unittranslate.lblall
+msgctxt "unittranslate.lblall"
+msgid "All"
+msgstr "所有"
+
+#: unittranslate.lblbanking
+msgctxt "unittranslate.lblbanking"
+msgid "Banking"
+msgstr "银行业"
+
+#: unittranslate.lbleducation
+msgctxt "unittranslate.lbleducation"
+msgid "Education"
+msgstr "教育"
+
+#: unittranslate.lblemail
+msgctxt "unittranslate.lblemail"
+msgid "Email"
+msgstr "电子邮件"
+
+#: unittranslate.lblmedia
+msgctxt "unittranslate.lblmedia"
+msgid "Media"
+msgstr "媒体"
+
+#: unittranslate.lblother
+msgctxt "unittranslate.lblother"
+msgid "Other"
+msgstr "其他"
+
+#: unittranslate.lblshopping
+msgctxt "unittranslate.lblshopping"
+msgid "Shopping"
+msgstr "购物"
+
+#: unittranslate.lblsocialmedia
+msgctxt "unittranslate.lblsocialmedia"
+msgid "Social Media"
+msgstr "社交媒体"
+
+#: unittranslate.lblsoftware
+msgctxt "unittranslate.lblsoftware"
+msgid "Software"
+msgstr "软件"
+
+#: unittranslate.lblweb
+msgctxt "unittranslate.lblweb"
+msgid "Web"
+msgstr "卷筒纸"
+
+#: unittranslate.lblwork
+msgctxt "unittranslate.lblwork"
+msgid "Work"
+msgstr "工作"
+
+#: unittranslate.letsbegin
+msgctxt "unittranslate.letsbegin"
+msgid "Let's begin"
+msgstr "让我们开始"
+
+#: unittranslate.msgareyousure
+msgid "Are you sure you want to delete "
+msgstr "你确定你要删除"
+
+#: unittranslate.msgfilehasbeenchanged
+msgid "Your LazLock file has been changed.\n"
+"Do you want to save before you exit?\n"
+""
+msgstr "您的LazLock文件已被更改。\n"
+"你想在退出之前保存吗？\n"
+""
+
+#: unittranslate.msgsavechanges
+msgid "Save changes?"
+msgstr "保存更改？"
+
+#: unittranslate.newpw1message
+msgctxt "unittranslate.newpw1message"
+msgid "Enter a new password to encrypt this file."
+msgstr "输入一个新的密码来加密这个文件。"
+
+#: unittranslate.newvaultmessage
+msgctxt "unittranslate.newvaultmessage"
+msgid "A new LazLock vault will be created.\n"
+"Please enter a new password that will be used to protect your data.\n"
+"\n"
+"IT IS IMPORTANT THAT YOU NEVER FORGET THIS PASSWORD.\n"
+"To protect your privacy, LazLock will not create a backup of your password.\n"
+""
+msgstr "新的LazLock库将被创建。\n"
+"请输入用于保护您的数据的新密​​码。\n"
+"\n"
+"重要的是你永远不要忘记这个密码。\n"
+"为了保护您的隐私，LazLock不会创建密码的备份。\n"
+""
+
+#: unittranslate.nochangemessage
+msgctxt "unittranslate.nochangemessage"
+msgid "Passwords do not match.\n"
+"Current password has not been changed.\n"
+""
+msgstr "密码不匹配。\n"
+"当前密码未被更改。\n"
+""
+
+#: unittranslate.noentrymessage
+msgctxt "unittranslate.noentrymessage"
+msgid "No entry selected"
+msgstr "没有选择条目"
+
+#: unittranslate.nopasswordexit
+msgctxt "unittranslate.nopasswordexit"
+msgid "No password entered, LazLock will exit"
+msgstr "没有输入密码，LazLock将退出"
+
+#: unittranslate.openlinkdefaultbrowser
+msgctxt "unittranslate.openlinkdefaultbrowser"
+msgid "Open link in default web browser"
+msgstr "在默认网页浏览器中打开链接"
+
+#: unittranslate.openpwgeneratorcaption
+msgctxt "unittranslate.openpwgeneratorcaption"
+msgid "Open Password Generator"
+msgstr "打开密码生成器"
+
+#: unittranslate.pwgeneratorcaption
+msgctxt "unittranslate.pwgeneratorcaption"
+msgid "Password Generator"
+msgstr "密码生成器"
+
+#: unittranslate.reenterpw
+msgctxt "unittranslate.reenterpw"
+msgid "Please re-enter the password to confirm."
+msgstr "请重新输入密码确认。"
+
+#: unittranslate.selectpwcharacters
+msgctxt "unittranslate.selectpwcharacters"
+msgid "Please select which characters to include in your password."
+msgstr "请选择您的密码中包含哪些字符。"
+
+#: unittranslate.statusaddentry
+msgctxt "unittranslate.statusaddentry"
+msgid "Add a new entry"
+msgstr "添加一个新条目"
+
+#: unittranslate.statuseditentry
+msgctxt "unittranslate.statuseditentry"
+msgid "Edit an entry"
+msgstr "编辑一个条目"
+
+#: unittranslate.statusenablebrackets
+msgctxt "unittranslate.statusenablebrackets"
+msgid "Enable brackets in password"
+msgstr "在密码中启用括号"
+
+#: unittranslate.statusenablelowercase
+msgctxt "unittranslate.statusenablelowercase"
+msgid "Enable lowercase letters in password"
+msgstr "在密码中启用小写字母"
+
+#: unittranslate.statusenablenumbers
+msgctxt "unittranslate.statusenablenumbers"
+msgid "Enable numbers in password"
+msgstr "在密码中启用数字"
+
+#: unittranslate.statusenablespaces
+msgctxt "unittranslate.statusenablespaces"
+msgid "Enable spaces   *note: Not all websites allow spaces in passwords"
+msgstr "启用空格*注意：并非所有网站都允许使用密码空格"
+
+#: unittranslate.statusenablesymbols
+msgctxt "unittranslate.statusenablesymbols"
+msgid "Enable symbols / special characters in password"
+msgstr "在密码中启用符号/特殊字符"
+
+#: unittranslate.statusenableuppercase
+msgctxt "unittranslate.statusenableuppercase"
+msgid "Enable uppercase letters in password"
+msgstr "在密码中启用大写字母"
+
+#: unittranslate.statusexitlazlock
+msgctxt "unittranslate.statusexitlazlock"
+msgid "Exit LazLock"
+msgstr "退出LazLock"
+
+#: unittranslate.statusremoveentry
+msgctxt "unittranslate.statusremoveentry"
+msgid "Remove an entry"
+msgstr "删除一个条目"
+
+#: unittranslate.statussaveencrypt
+msgctxt "unittranslate.statussaveencrypt"
+msgid "Save and encrypt database"
+msgstr "保存并加密数据库"
+
+#: unittranslate.statusselectpwlength
+msgctxt "unittranslate.statusselectpwlength"
+msgid "Select number of characters in password"
+msgstr "选择密码中的字符数"
+
+#: unittranslate.strongpw
+msgctxt "unittranslate.strongpw"
+msgid "Strong password"
+msgstr "强大的密码"
+
+#: unittranslate.verystrongpw
+msgctxt "unittranslate.verystrongpw"
+msgid "Very strong password"
+msgstr "非常强大的密码"
+
+#: unittranslate.veryweakpw
+msgctxt "unittranslate.veryweakpw"
+msgid "Very weak password"
+msgstr "密码非常弱"
+
+#: unittranslate.weakpw
+msgctxt "unittranslate.weakpw"
+msgid "Weak password"
+msgstr "密码强度低"
+
+#: unittranslate.welcomemessagedialog
+msgctxt "unittranslate.welcomemessagedialog"
+msgid "Welcome to LazLock Password Manager\n"
+"A new vault has been created for you to begin storing your passwords.\n"
+"Do you wish to view the online help?\n"
+""
+msgstr "欢迎来到LazLock密码管理器\n"
+"已经为您创建了一个新的保管库，以开始存储您的密码。\n"
+"你想查看在线帮助吗？\n"
+""
+
+#: tmainlazlock.menuitem2.caption
+msgctxt "tmainlazlock.menuitem2.caption"
+msgid "-"
+msgstr " - "
+
+#: tmainlazlock.menuitem4.caption
+msgctxt "tmainlazlock.menuitem4.caption"
+msgid "-"
+msgstr " - "
+
+#: tmainlazlock.menuitem7.caption
+msgctxt "tmainlazlock.menuitem7.caption"
+msgid "-"
+msgstr " - "
+
+#: tmainlazlock.rcmmnuopenurl.caption
+msgctxt "tmainlazlock.rcmmnuopenurl.caption"
+msgid "Open in browser"
+msgstr "在浏览器中打开"
+
+#: tmainlazlock.rcmnuopenurl.caption
+msgctxt "tmainlazlock.rcmnuopenurl.caption"
+msgid "Open in browser"
+msgstr "在浏览器中打开"
+
+#: tmainlazlock.stmmnuaddentry.caption
+msgctxt "tmainlazlock.stmmnuaddentry.caption"
+msgid "Add Entry"
+msgstr "添加条目"
+
+#: tmainlazlock.stmmnupwgen.caption
+msgctxt "tmainlazlock.stmmnupwgen.caption"
+msgid "Password Generator"
+msgstr "密码生成器"
+
+#: tpasswordgenerator.edname1.caption
+msgctxt "tpasswordgenerator.edname1.caption"
+msgid "Name of Site"
+msgstr "网站名称"
+
+#: tpasswordgenerator.edname2.caption
+msgctxt "tpasswordgenerator.edname2.caption"
+msgid "Name of Site"
+msgstr "网站名称"
+
+#: tpasswordgenerator.ednamea.texthint
+msgid "eg Cpunk-Security"
+msgstr "例如Cpunk-Security"
+
+#: tpasswordgenerator.edpassword1.caption
+msgctxt "tpasswordgenerator.edpassword1.caption"
+msgid "Password"
+msgstr "密码"
+
+#: tpasswordgenerator.edpassword2.caption
+msgctxt "tpasswordgenerator.edpassword2.caption"
+msgid "Password"
+msgstr "密码"
+
+#: tpasswordgenerator.edurl1.caption
+msgctxt "tpasswordgenerator.edurl1.caption"
+msgid "URL"
+msgstr "网址"
+
+#: tpasswordgenerator.edurl2.caption
+msgctxt "tpasswordgenerator.edurl2.caption"
+msgid "URL"
+msgstr "网址"
+
+#: tpasswordgenerator.edurla.texthint
+msgid "https://www.cpunk-security.com/"
+msgstr "https://www.cpunk-security.com/"
+
+#: tpasswordgenerator.eduser1.caption
+msgctxt "tpasswordgenerator.eduser1.caption"
+msgid "Username"
+msgstr "用户名"
+
+#: tpasswordgenerator.eduser2.caption
+msgctxt "tpasswordgenerator.eduser2.caption"
+msgid "Username"
+msgstr "用户名"
+
+#: tmainlazlock.menuitem11.caption
+msgctxt "tmainlazlock.menuitem11.caption"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.menuitem6.caption
+msgctxt "tmainlazlock.menuitem6.caption"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.rcmmnucopypw.caption
+msgctxt "tmainlazlock.rcmmnucopypw.caption"
+msgid "Copy Password"
+msgstr "复制密码"
+
+#: tmainlazlock.rcmmnucopyurl.caption
+msgctxt "tmainlazlock.rcmmnucopyurl.caption"
+msgid "Copy URL"
+msgstr "复制网址"
+
+#: tmainlazlock.rcmmnucopyuser.caption
+msgctxt "tmainlazlock.rcmmnucopyuser.caption"
+msgid "Copy Username"
+msgstr "复制用户名"
+
+#: tmainlazlock.rcmnucopypassword.caption
+msgctxt "tmainlazlock.rcmnucopypassword.caption"
+msgid "Copy Password"
+msgstr "复制密码"
+
+#: tmainlazlock.rcmnucopyurl.caption
+msgctxt "tmainlazlock.rcmnucopyurl.caption"
+msgid "Copy URL"
+msgstr "复制网址"
+
+#: tmainlazlock.rcmnucopyusername.caption
+msgctxt "tmainlazlock.rcmnucopyusername.caption"
+msgid "Copy Username"
+msgstr "复制用户名"
+
+#: tmainlazlock.stmmnuexit.caption
+msgctxt "tmainlazlock.stmmnuexit.caption"
+msgid "Exit LazLock"
+msgstr "退出LazLock"
+
+#: tpasswordgenerator.edurla.texthint
+msgctxt "tpasswordgenerator.edurla.texthint"
+msgid "https://www.cpunk-security.com/"
+msgstr "https://www.cpunk-security.com/"
+
+#: unittranslate.categoryselect
+msgctxt "unittranslate.categoryselect"
+msgid "Select"
+msgstr "选择"
+
+#: unittranslate.statustotalrecords
+msgid " records in LazLock"
+msgstr " 记录在LazLock中"
+

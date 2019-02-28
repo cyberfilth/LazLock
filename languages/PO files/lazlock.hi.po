@@ -1,0 +1,1163 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: LazLock\n"
+"Language: hi\n"
+
+#: tmainlazlock.btnbanking.caption
+msgctxt "tmainlazlock.btnbanking.caption"
+msgid "Banking"
+msgstr "बैंकिंग"
+
+#: tmainlazlock.btneducation.caption
+msgctxt "tmainlazlock.btneducation.caption"
+msgid "Education"
+msgstr "शिक्षा"
+
+#: tmainlazlock.btnemail.caption
+msgctxt "tmainlazlock.btnemail.caption"
+msgid "Email"
+msgstr "ईमेल"
+
+#: tmainlazlock.btnmedia.caption
+msgctxt "tmainlazlock.btnmedia.caption"
+msgid "Media"
+msgstr "मीडिया"
+
+#: tmainlazlock.btnother.caption
+msgctxt "tmainlazlock.btnother.caption"
+msgid "Other"
+msgstr "अन्य"
+
+#: tmainlazlock.btnshopping.caption
+msgctxt "tmainlazlock.btnshopping.caption"
+msgid "Shopping"
+msgstr "खरीदारी"
+
+#: tmainlazlock.btnshowall.caption
+msgctxt "tmainlazlock.btnshowall.caption"
+msgid "All"
+msgstr "सब"
+
+#: tmainlazlock.btnsocialmedia.caption
+msgctxt "tmainlazlock.btnsocialmedia.caption"
+msgid "Social Media"
+msgstr "सामाजिक मीडिया"
+
+#: tmainlazlock.btnsoftware.caption
+msgctxt "tmainlazlock.btnsoftware.caption"
+msgid "Software"
+msgstr "सॉफ्टवेयर"
+
+#: tmainlazlock.btnweb.caption
+msgctxt "tmainlazlock.btnweb.caption"
+msgid "Web"
+msgstr "वेब"
+
+#: tmainlazlock.btnwork.caption
+msgctxt "tmainlazlock.btnwork.caption"
+msgid "Work"
+msgstr "काम"
+
+#: tmainlazlock.caption
+msgid "LazLock"
+msgstr "LazLock"
+
+#: tmainlazlock.categoryheader.caption
+msgid "Categories"
+msgstr "श्रेणियाँ"
+
+#: tmainlazlock.labelpassword.caption
+msgctxt "TMAINLAZLOCK.LABELPASSWORD.CAPTION"
+msgid "Password"
+msgstr "पारण शब्द"
+
+#: tmainlazlock.labelurl.caption
+msgctxt "TMAINLAZLOCK.LABELURL.CAPTION"
+msgid "URL"
+msgstr "यूआरएल"
+
+#: tmainlazlock.labeluser.caption
+msgctxt "TMAINLAZLOCK.LABELUSER.CAPTION"
+msgid "Username"
+msgstr "उपयोगकर्ता नाम"
+
+#: tmainlazlock.listview1.columns[0].caption
+msgctxt "tmainlazlock.listview1.columns[0].caption"
+msgid "Category"
+msgstr "वर्ग"
+
+#: tmainlazlock.listview1.columns[1].caption
+msgid "Logins"
+msgstr "लॉगिन"
+
+#: tmainlazlock.listview1.columns[2].caption
+msgctxt "tmainlazlock.listview1.columns[2].caption"
+msgid "URL"
+msgstr "यूआरएल"
+
+#: tmainlazlock.listview1.columns[3].caption
+msgctxt "tmainlazlock.listview1.columns[3].caption"
+msgid "Username"
+msgstr "उपयोगकर्ता नाम"
+
+#: tmainlazlock.listview1.columns[4].caption
+msgctxt "tmainlazlock.listview1.columns[4].caption"
+msgid "Password"
+msgstr "पारण शब्द"
+
+#: tmainlazlock.listview1.columns[5].caption
+msgid "Image"
+msgstr "छवि"
+
+#: tmainlazlock.menuitem1.caption
+msgctxt "tmainlazlock.menuitem1.caption"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.menuitem3.caption
+msgctxt "TMAINLAZLOCK.MENUITEM3.CAPTION"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.menuitem5.caption
+msgctxt "TMAINLAZLOCK.MENUITEM5.CAPTION"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.mnuabout.caption
+msgid "About"
+msgstr "के बारे में"
+
+#: tmainlazlock.mnuadd.caption
+msgctxt "tmainlazlock.mnuadd.caption"
+msgid "Add Entry"
+msgstr "प्रविष्टि जोड़ें"
+
+#: tmainlazlock.mnuadd.hint
+msgctxt "tmainlazlock.mnuadd.hint"
+msgid "Add a new entry"
+msgstr "एक नई प्रविष्टि जोड़ें"
+
+#: tmainlazlock.mnubackup.caption
+msgid "Create backup"
+msgstr "बैकअप बनाना"
+
+#: tmainlazlock.mnuchangepw.caption
+msgid "Change Password"
+msgstr "पासवर्ड बदलें"
+
+#: tmainlazlock.mnudelete.caption
+msgctxt "tmainlazlock.mnudelete.caption"
+msgid "Delete Entry"
+msgstr "प्रविष्टि हटाएं"
+
+#: tmainlazlock.mnudelete.hint
+msgctxt "tmainlazlock.mnudelete.hint"
+msgid "Remove an entry"
+msgstr "एक प्रविष्टि निकालें"
+
+#: tmainlazlock.mnuedit.caption
+msgctxt "tmainlazlock.mnuedit.caption"
+msgid "Edit Entry"
+msgstr "प्रविष्टि संपादित करें"
+
+#: tmainlazlock.mnuedit.hint
+msgctxt "tmainlazlock.mnuedit.hint"
+msgid "Edit an entry"
+msgstr "एक प्रविष्टि संपादित करें"
+
+#: tmainlazlock.mnueditdropdown.caption
+msgid "&Edit"
+msgstr "और संपादित करें"
+
+#: tmainlazlock.mnuexit.caption
+msgid "E&xit"
+msgstr "बाहर जाएं"
+
+#: tmainlazlock.mnuexit.hint
+msgctxt "tmainlazlock.mnuexit.hint"
+msgid "Exit LazLock"
+msgstr "बाहर निकलें LazLock"
+
+#: tmainlazlock.mnuexporttext.caption
+msgid "Export as plain text"
+msgstr "सादा पाठ के रूप में निर्यात करें"
+
+#: tmainlazlock.mnufile.caption
+msgid "&File"
+msgstr "& फ़ाइल"
+
+#: tmainlazlock.mnuhelp.caption
+msgid "&Help"
+msgstr "&मदद"
+
+#: tmainlazlock.mnuhelpdivider.caption
+msgctxt "TMAINLAZLOCK.MNUHELPDIVIDER.CAPTION"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.mnuonlinehelp.caption
+msgid "Online help"
+msgstr "ऑनलाइन सहायता"
+
+#: tmainlazlock.mnupwgenerator.caption
+msgctxt "tmainlazlock.mnupwgenerator.caption"
+msgid "Password Generator"
+msgstr "पासवर्ड जनरेटर"
+
+#: tmainlazlock.mnupwgenerator.hint
+msgctxt "tmainlazlock.mnupwgenerator.hint"
+msgid "Open Password Generator"
+msgstr "पासवर्ड जनरेटर खोलें"
+
+#: tmainlazlock.mnusave.caption
+msgid "Encrypt and &Save"
+msgstr "एन्क्रिप्ट और सहेजें"
+
+#: tmainlazlock.mnusave.hint
+msgctxt "tmainlazlock.mnusave.hint"
+msgid "Save and encrypt database"
+msgstr "डाटाबेस को सुरक्षित और एन्क्रिप्ट करें"
+
+#: tmainlazlock.mnuseparator.caption
+msgctxt "TMAINLAZLOCK.MNUSEPARATOR.CAPTION"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.rcmmnuaddentry.caption
+msgctxt "TMAINLAZLOCK.RCMMNUADDENTRY.CAPTION"
+msgid "Add Entry"
+msgstr "प्रविष्टि जोड़ें"
+
+#: tmainlazlock.rcmmnupwgen.caption
+msgctxt "TMAINLAZLOCK.RCMMNUPWGEN.CAPTION"
+msgid "Password Generator"
+msgstr "पासवर्ड जनरेटर"
+
+#: tmainlazlock.rcmnuaddentry.caption
+msgctxt "TMAINLAZLOCK.RCMNUADDENTRY.CAPTION"
+msgid "Add Entry"
+msgstr "प्रविष्टि जोड़ें"
+
+#: tmainlazlock.rcmnucopypassword.caption
+msgid "Copy Password"
+msgstr "पासवर्ड कॉपी करें"
+
+#: tmainlazlock.rcmnucopyurl.caption
+msgid "Copy URL"
+msgstr "यूआरएल कॉपी करें"
+
+#: tmainlazlock.rcmnucopyusername.caption
+msgid "Copy Username"
+msgstr "उपयोगकर्ता नाम कॉपी करें"
+
+#: tmainlazlock.rcmnudeleteentry.caption
+msgctxt "TMAINLAZLOCK.RCMNUDELETEENTRY.CAPTION"
+msgid "Delete Entry"
+msgstr "प्रविष्टि हटाएं"
+
+#: tmainlazlock.rcmnueditentry.caption
+msgctxt "TMAINLAZLOCK.RCMNUEDITENTRY.CAPTION"
+msgid "Edit Entry"
+msgstr "प्रविष्टि संपादित करें"
+
+#: tmainlazlock.rcmnupwgenerator.caption
+msgctxt "TMAINLAZLOCK.RCMNUPWGENERATOR.CAPTION"
+msgid "Password Generator"
+msgstr "पासवर्ड जनरेटर"
+
+#: tmainlazlock.savedialog1.title
+msgid "Save unencrypted text file as"
+msgstr "अनएन्क्रिप्ट किए गए पाठ फ़ाइल को इस रूप में सहेजें"
+
+#: tmainlazlock.tbdivider1.caption
+msgid "TBdivider1"
+msgstr "TBdivider1"
+
+#: tmainlazlock.tbdivider2.caption
+msgid "TBdivider2"
+msgstr "TBdivider2"
+
+#: tmainlazlock.tbdivider3.caption
+msgid "TBdivider3"
+msgstr "TBdivider3"
+
+#: tmainlazlock.tbquit.caption
+msgid "TBQuit"
+msgstr "TBQuit"
+
+#: tmainlazlock.tbsave.caption
+msgid "TBSave"
+msgstr "TBSave"
+
+#: tmainlazlock.toolbar1.caption
+msgid "ToolBar1"
+msgstr "ToolBar1"
+
+#: tpasswordgenerator.abox.caption
+msgid "Symbols"
+msgstr "प्रतीक"
+
+#: tpasswordgenerator.bbox.caption
+msgid "Numbers"
+msgstr "नंबर"
+
+#: tpasswordgenerator.btnadd.caption
+msgid "Add"
+msgstr "जोड़ना"
+
+#: tpasswordgenerator.btncancel.caption
+msgctxt "tpasswordgenerator.btncancel.caption"
+msgid "Cancel"
+msgstr "रद्द करना"
+
+#: tpasswordgenerator.btncancel2.caption
+msgctxt "tpasswordgenerator.btncancel2.caption"
+msgid "Cancel"
+msgstr "रद्द करना"
+
+#: tpasswordgenerator.btnclose.caption
+msgid "Close"
+msgstr "बंद करे"
+
+#: tpasswordgenerator.btncopy.caption
+msgid "Copy"
+msgstr "प्रतिलिपि"
+
+#: tpasswordgenerator.btngenpw.caption
+msgid "Generate password"
+msgstr "पासवर्ड उत्पन्न करें"
+
+#: tpasswordgenerator.btnsavechanges.caption
+msgid "Save changes"
+msgstr "परिवर्तनों को सुरक्षित करें"
+
+#: tpasswordgenerator.caption
+msgctxt "tpasswordgenerator.caption"
+msgid "Add Entry / Password Generator"
+msgstr "प्रविष्टि / पासवर्ड जनरेटर जोड़ें"
+
+#: tpasswordgenerator.cbox.caption
+msgid "Uppercase"
+msgstr "अपरकेस"
+
+#: tpasswordgenerator.dbox.caption
+msgid "Lowercase"
+msgstr "छोटे"
+
+#: tpasswordgenerator.ebox.caption
+msgid "Brackets"
+msgstr "कोष्ठक"
+
+#: tpasswordgenerator.edcategory.text
+msgctxt "tpasswordgenerator.edcategory.text"
+msgid "Select"
+msgstr "चुनते हैं"
+
+#: tpasswordgenerator.edcategory2.text
+msgctxt "tpasswordgenerator.edcategory2.text"
+msgid "Select"
+msgstr "चुनते हैं"
+
+#: tpasswordgenerator.edimage.hint
+msgctxt "tpasswordgenerator.edimage.hint"
+msgid "Select an icon"
+msgstr "एक आइकन चुनें"
+
+#: tpasswordgenerator.edimage2.hint
+msgctxt "tpasswordgenerator.edimage2.hint"
+msgid "Select an icon"
+msgstr "एक आइकन चुनें"
+
+#: tpasswordgenerator.edname.editlabel.caption
+msgctxt "tpasswordgenerator.edname.editlabel.caption"
+msgid "Name of site"
+msgstr "साइट का नाम"
+
+#: tpasswordgenerator.edname.texthint
+msgctxt "tpasswordgenerator.edname.texthint"
+msgid "e.g.  CPunk-Security"
+msgstr "जैसे CPunk-सुरक्षा"
+
+#: tpasswordgenerator.edname2.editlabel.caption
+msgctxt "tpasswordgenerator.edname2.editlabel.caption"
+msgid "Name of site"
+msgstr "साइट का नाम"
+
+#: tpasswordgenerator.edname2.texthint
+msgctxt "tpasswordgenerator.edname2.texthint"
+msgid "e.g.  CPunk-Security"
+msgstr "जैसे CPunk-सुरक्षा"
+
+#: tpasswordgenerator.edpassword.editlabel.caption
+msgctxt "tpasswordgenerator.edpassword.editlabel.caption"
+msgid "Password"
+msgstr "पारण शब्द"
+
+#: tpasswordgenerator.edpassword2.editlabel.caption
+msgctxt "tpasswordgenerator.edpassword2.editlabel.caption"
+msgid "Password"
+msgstr "पारण शब्द"
+
+#: tpasswordgenerator.edurl.editlabel.caption
+msgctxt "tpasswordgenerator.edurl.editlabel.caption"
+msgid "Web address"
+msgstr "वेब पता"
+
+#: tpasswordgenerator.edurl.texthint
+msgctxt "tpasswordgenerator.edurl.texthint"
+msgid "https://www.cpunk-security.com/"
+msgstr "https://www.cpunk-security.com/"
+
+#: tpasswordgenerator.edurl2.editlabel.caption
+msgctxt "tpasswordgenerator.edurl2.editlabel.caption"
+msgid "Web address"
+msgstr "वेब पता"
+
+#: tpasswordgenerator.edurl2.texthint
+msgctxt "tpasswordgenerator.edurl2.texthint"
+msgid "https://www.cpunk-security.com/"
+msgstr "https://www.cpunk-security.com/"
+
+#: tpasswordgenerator.eduser.editlabel.caption
+msgctxt "tpasswordgenerator.eduser.editlabel.caption"
+msgid "Username"
+msgstr "उपयोगकर्ता नाम"
+
+#: tpasswordgenerator.eduser2.editlabel.caption
+msgctxt "tpasswordgenerator.eduser2.editlabel.caption"
+msgid "Username"
+msgstr "उपयोगकर्ता नाम"
+
+#: tpasswordgenerator.fbox.caption
+msgid "Spaces"
+msgstr "रिक्त स्थान"
+
+#: tpasswordgenerator.label1.caption
+msgid "Length of password"
+msgstr "पासवर्ड की लंबाई"
+
+#: tpasswordgenerator.label2.caption
+msgctxt "tpasswordgenerator.label2.caption"
+msgid "Generate a random password"
+msgstr "यादृच्छिक पासवर्ड उत्पन्न करें"
+
+#: tpasswordgenerator.lblcategory.caption
+msgctxt "tpasswordgenerator.lblcategory.caption"
+msgid "Category"
+msgstr "वर्ग"
+
+#: tpasswordgenerator.lblcategory2.caption
+msgctxt "tpasswordgenerator.lblcategory2.caption"
+msgid "Category"
+msgstr "वर्ग"
+
+#: tpasswordgenerator.lblicon.caption
+msgctxt "tpasswordgenerator.lblicon.caption"
+msgid "Select an icon"
+msgstr "एक आइकन चुनें"
+
+#: tpasswordgenerator.lblicon2.caption
+msgctxt "tpasswordgenerator.lblicon2.caption"
+msgid "Select an icon"
+msgstr "एक आइकन चुनें"
+
+#: tpasswordgenerator.lbltitle.caption
+msgid "Create a new entry"
+msgstr "एक नई प्रविष्टि बनाएँ"
+
+#: tpasswordgenerator.lbltitle1.caption
+msgctxt "tpasswordgenerator.lbltitle1.caption"
+msgid "Edit Entry"
+msgstr "प्रविष्टि संपादित करें"
+
+#: tpasswordgenerator.linkpwgenerator.caption
+msgctxt "tpasswordgenerator.linkpwgenerator.caption"
+msgid "Use Password Generator"
+msgstr "पासवर्ड जेनरेटर का उपयोग करें"
+
+#: tpasswordgenerator.linkpwgenerator2.caption
+msgctxt "tpasswordgenerator.linkpwgenerator2.caption"
+msgid "Use Password Generator"
+msgstr "पासवर्ड जेनरेटर का उपयोग करें"
+
+#: tpasswordgenerator.optionsgroup.caption
+msgid "Password options"
+msgstr "पासवर्ड विकल्प"
+
+#: tpasswordgenerator.tabeditentry.caption
+msgctxt "tpasswordgenerator.tabeditentry.caption"
+msgid "Edit Entry"
+msgstr "प्रविष्टि संपादित करें"
+
+#: tpasswordgenerator.tabenternew.caption
+msgid "Add entry"
+msgstr "प्रविष्टि जोड़ें"
+
+#: tpasswordgenerator.tabpwgenerator.caption
+msgctxt "tpasswordgenerator.tabpwgenerator.caption"
+msgid "Password Generator"
+msgstr "पासवर्ड जनरेटर"
+
+#: unitmain.addentrypwgeneratorcaption
+msgctxt "unitmain.addentrypwgeneratorcaption"
+msgid "Add Entry / Password Generator"
+msgstr "प्रविष्टि / पासवर्ड जनरेटर जोड़ें"
+
+#: unitmain.changecaption
+msgctxt "unitmain.changecaption"
+msgid "Change password"
+msgstr "पासवर्ड बदलें"
+
+#: unitmain.confirmcaption
+msgctxt "unitmain.confirmcaption"
+msgid "Confirm password"
+msgstr "पासवर्ड की पुष्टि कीजिये"
+
+#: unitmain.copytocboard
+msgctxt "unitmain.copytocboard"
+msgid "Copy to the clipboard"
+msgstr "क्लिपबोर्ड पर कॉपी करें"
+
+#: unitmain.createcaption
+msgctxt "unitmain.createcaption"
+msgid "Create a new file"
+msgstr "एक नई फ़ाइल बनाएं"
+
+#: unitmain.dontmatch
+msgctxt "unitmain.dontmatch"
+msgid "Passwords do not match\n"
+"LazLock will now exit\n"
+""
+msgstr "पासवर्ड मेल नहीं खाते\n"
+"LazLock अब बाहर निकल जाएगा\n"
+""
+
+#: unitmain.enterpw
+msgctxt "unitmain.enterpw"
+msgid "Please enter your password."
+msgstr "अपना पासवर्ड दर्ज करें।"
+
+#: unitmain.enterpwcaption
+msgctxt "unitmain.enterpwcaption"
+msgid "Enter password"
+msgstr "पास वर्ड दर्ज करें"
+
+#: unitmain.exitdecryptmessage
+msgctxt "unitmain.exitdecryptmessage"
+msgid "Incorrect password entered.\n"
+"LazLock will now quit.\n"
+""
+msgstr "गलत पासवर्ड दर्ज किया गया।\n"
+"LazLock अब छोड़ देंगे\n"
+""
+
+#: unitmain.letsbegin
+msgctxt "unitmain.letsbegin"
+msgid "Let's begin"
+msgstr "चलो शुरू करें"
+
+#: unitmain.newpw1message
+msgctxt "unitmain.newpw1message"
+msgid "Enter a new password to encrypt this file."
+msgstr "इस फ़ाइल को एन्क्रिप्ट करने के लिए एक नया पासवर्ड दर्ज करें।"
+
+#: unitmain.newvaultmessage
+msgctxt "unitmain.newvaultmessage"
+msgid "A new LazLock vault will be created.\n"
+"Please enter a new password that will be used to protect your data.\n"
+"\n"
+"IT IS IMPORTANT THAT YOU NEVER FORGET THIS PASSWORD.\n"
+"To protect your privacy, LazLock will not create a backup of your password.\n"
+""
+msgstr "एक नया लाजॉक वॉल्ट बनाया जाएगा\n"
+"कृपया एक नया पासवर्ड दर्ज करें जो आपके डेटा को सुरक्षित रखने के लिए उपयोग किया जाएगा।\n"
+"\n"
+"यह महत्वपूर्ण है कि आप इस पासवर्ड को भूल नहीं करते हैं\n"
+"आपकी गोपनीयता की सुरक्षा के लिए, LazLock आपके पासवर्ड का बैकअप नहीं बनाएगा\n"
+""
+
+#: unitmain.nochangemessage
+msgctxt "unitmain.nochangemessage"
+msgid "Passwords do not match.\n"
+"Current password has not been changed.\n"
+""
+msgstr "पासवर्ड मेल नहीं खाते।\n"
+"वर्तमान पासवर्ड परिवर्तित नहीं किया गया है।\n"
+""
+
+#: unitmain.noentrymessage
+msgctxt "unitmain.noentrymessage"
+msgid "No entry selected"
+msgstr "कोई प्रविष्टि चयनित नहीं"
+
+#: unitmain.nopasswordexit
+msgctxt "unitmain.nopasswordexit"
+msgid "No password entered, LazLock will exit"
+msgstr "कोई पासवर्ड दर्ज नहीं किया गया, LazLock बाहर निकल जाएगा"
+
+#: unitmain.openlinkdefaultbrowser
+msgctxt "unitmain.openlinkdefaultbrowser"
+msgid "Open link in default web browser"
+msgstr "डिफ़ॉल्ट वेब ब्राउज़र में लिंक खोलें"
+
+#: unitmain.reenterpw
+msgctxt "unitmain.reenterpw"
+msgid "Please re-enter the password to confirm."
+msgstr "पुष्टि करने के लिए कृपया पासवर्ड पुनः दर्ज करें"
+
+#: unitmain.welcomemessagedialog
+msgctxt "unitmain.welcomemessagedialog"
+msgid "Welcome to LazLock Password Manager\n"
+"A new vault has been created for you to begin storing your passwords.\n"
+"Do you wish to view the online help?\n"
+""
+msgstr "LazLock पासवर्ड प्रबंधक में आपका स्वागत है\n"
+"आपके पासवर्ड को संचय करना शुरू करने के लिए आपके लिए एक नया वॉल्ट बनाया गया है।\n"
+"क्या आप ऑनलाइन सहायता देखना चाहते हैं?\n"
+""
+
+#: unitpassword.averagepw
+msgctxt "unitpassword.averagepw"
+msgid "Average strength password"
+msgstr "औसत ताकत का पासवर्ड"
+
+#: unitpassword.closepwgenerator
+msgctxt "unitpassword.closepwgenerator"
+msgid "Close password generator"
+msgstr "पासवर्ड जनरेटर बंद करें"
+
+#: unitpassword.completeallfields
+msgctxt "unitpassword.completeallfields"
+msgid "Please complete all fields to add a new entry"
+msgstr "कृपया एक नई प्रविष्टि जोड़ने के लिए सभी फ़ील्ड पूर्ण करें"
+
+#: unitpassword.copypwtoclipboard
+msgctxt "unitpassword.copypwtoclipboard"
+msgid "Copy password to clipboard"
+msgstr "क्लिपबोर्ड पर पासवर्ड कॉपी करें"
+
+#: unitpassword.generaterandompw
+msgctxt "unitpassword.generaterandompw"
+msgid "Generate a random password"
+msgstr "यादृच्छिक पासवर्ड उत्पन्न करें"
+
+#: unitpassword.selectpwcharacters
+msgctxt "unitpassword.selectpwcharacters"
+msgid "Please select which characters to include in your password."
+msgstr "कृपया अपने पासवर्ड में शामिल करने वाले पात्रों का चयन करें।"
+
+#: unitpassword.statusenablebrackets
+msgctxt "unitpassword.statusenablebrackets"
+msgid "Enable brackets in password"
+msgstr "पासवर्ड में कोष्ठक को सक्षम करें"
+
+#: unitpassword.statusenablelowercase
+msgctxt "unitpassword.statusenablelowercase"
+msgid "Enable lowercase letters in password"
+msgstr "पासवर्ड में लोअरकेस अक्षरों को सक्षम करें"
+
+#: unitpassword.statusenablenumbers
+msgctxt "unitpassword.statusenablenumbers"
+msgid "Enable numbers in password"
+msgstr "पासवर्ड में नंबर सक्षम करें"
+
+#: unitpassword.statusenablespaces
+msgctxt "unitpassword.statusenablespaces"
+msgid "Enable spaces   *note: Not all websites allow spaces in passwords"
+msgstr "रिक्त स्थान सक्षम करें * नोट: सभी वेबसाइट पासवर्डों में रिक्त स्थान की अनुमति नहीं देते हैं"
+
+#: unitpassword.statusenablesymbols
+msgctxt "unitpassword.statusenablesymbols"
+msgid "Enable symbols / special characters in password"
+msgstr "पासवर्ड में प्रतीकों / विशेष वर्णों को सक्षम करें"
+
+#: unitpassword.statusenableuppercase
+msgctxt "unitpassword.statusenableuppercase"
+msgid "Enable uppercase letters in password"
+msgstr "पासवर्ड में अपरकेस अक्षरों को सक्षम करें"
+
+#: unitpassword.statusselectpwlength
+msgctxt "unitpassword.statusselectpwlength"
+msgid "Select number of characters in password"
+msgstr "पासवर्ड में वर्णों की संख्या का चयन करें"
+
+#: unitpassword.strongpw
+msgctxt "unitpassword.strongpw"
+msgid "Strong password"
+msgstr "मजबूत पासवर्ड"
+
+#: unitpassword.verystrongpw
+msgctxt "unitpassword.verystrongpw"
+msgid "Very strong password"
+msgstr "बहुत मजबूत पासवर्ड"
+
+#: unitpassword.veryweakpw
+msgctxt "unitpassword.veryweakpw"
+msgid "Very weak password"
+msgstr "बहुत कमजोर पासवर्ड"
+
+#: unitpassword.weakpw
+msgctxt "unitpassword.weakpw"
+msgid "Weak password"
+msgstr "कमजोर पासवर्ड"
+
+#: unittranslate.addentrypwgeneratorcaption
+msgctxt "unittranslate.addentrypwgeneratorcaption"
+msgid "Add Entry / Password Generator"
+msgstr "प्रविष्टि / पासवर्ड जनरेटर जोड़ें"
+
+#: unittranslate.averagepw
+msgctxt "unittranslate.averagepw"
+msgid "Average strength password"
+msgstr "औसत ताकत का पासवर्ड"
+
+#: unittranslate.changecaption
+msgctxt "unittranslate.changecaption"
+msgid "Change password"
+msgstr "पासवर्ड बदलें"
+
+#: unittranslate.closepwgenerator
+msgctxt "unittranslate.closepwgenerator"
+msgid "Close password generator"
+msgstr "पासवर्ड जनरेटर बंद करें"
+
+#: unittranslate.completeallfields
+msgctxt "unittranslate.completeallfields"
+msgid "Please complete all fields to add a new entry"
+msgstr "कृपया एक नई प्रविष्टि जोड़ने के लिए सभी फ़ील्ड पूर्ण करें"
+
+#: unittranslate.confirmcaption
+msgctxt "unittranslate.confirmcaption"
+msgid "Confirm password"
+msgstr "पासवर्ड की पुष्टि कीजिये"
+
+#: unittranslate.copypwtoclipboard
+msgctxt "unittranslate.copypwtoclipboard"
+msgid "Copy password to clipboard"
+msgstr "क्लिपबोर्ड पर पासवर्ड कॉपी करें"
+
+#: unittranslate.copytocboard
+msgctxt "unittranslate.copytocboard"
+msgid "Copy to the clipboard"
+msgstr "क्लिपबोर्ड पर कॉपी करें"
+
+#: unittranslate.createcaption
+msgctxt "unittranslate.createcaption"
+msgid "Create a new file"
+msgstr "एक नई फ़ाइल बनाएं"
+
+#: unittranslate.dontmatch
+msgctxt "unittranslate.dontmatch"
+msgid "Passwords do not match\n"
+"LazLock will now exit\n"
+""
+msgstr "पासवर्ड मेल नहीं खाते\n"
+"LazLock अब बाहर निकल जाएगा\n"
+""
+
+#: unittranslate.editentrypwgeneratorcaption
+msgid "Edit Entry / Password Generator"
+msgstr "प्रविष्टि / पासवर्ड जेनरेटर संपादित करें"
+
+#: unittranslate.enterpw
+msgctxt "unittranslate.enterpw"
+msgid "Please enter your password."
+msgstr "अपना पासवर्ड दर्ज करें।"
+
+#: unittranslate.enterpwcaption
+msgctxt "unittranslate.enterpwcaption"
+msgid "Enter password"
+msgstr "पास वर्ड दर्ज करें"
+
+#: unittranslate.exitdecryptmessage
+msgctxt "unittranslate.exitdecryptmessage"
+msgid "Incorrect password entered.\n"
+"LazLock will now quit.\n"
+""
+msgstr "गलत पासवर्ड दर्ज किया गया।\n"
+"LazLock अब छोड़ देंगे\n"
+""
+
+#: unittranslate.generaterandompw
+msgctxt "unittranslate.generaterandompw"
+msgid "Generate a random password"
+msgstr "यादृच्छिक पासवर्ड उत्पन्न करें"
+
+#: unittranslate.lblall
+msgctxt "unittranslate.lblall"
+msgid "All"
+msgstr "सब"
+
+#: unittranslate.lblbanking
+msgctxt "unittranslate.lblbanking"
+msgid "Banking"
+msgstr "बैंकिंग"
+
+#: unittranslate.lbleducation
+msgctxt "unittranslate.lbleducation"
+msgid "Education"
+msgstr "शिक्षा"
+
+#: unittranslate.lblemail
+msgctxt "unittranslate.lblemail"
+msgid "Email"
+msgstr "ईमेल"
+
+#: unittranslate.lblmedia
+msgctxt "unittranslate.lblmedia"
+msgid "Media"
+msgstr "मीडिया"
+
+#: unittranslate.lblother
+msgctxt "unittranslate.lblother"
+msgid "Other"
+msgstr "अन्य"
+
+#: unittranslate.lblshopping
+msgctxt "unittranslate.lblshopping"
+msgid "Shopping"
+msgstr "खरीदारी"
+
+#: unittranslate.lblsocialmedia
+msgctxt "unittranslate.lblsocialmedia"
+msgid "Social Media"
+msgstr "सामाजिक मीडिया"
+
+#: unittranslate.lblsoftware
+msgctxt "unittranslate.lblsoftware"
+msgid "Software"
+msgstr "सॉफ्टवेयर"
+
+#: unittranslate.lblweb
+msgctxt "unittranslate.lblweb"
+msgid "Web"
+msgstr "वेब"
+
+#: unittranslate.lblwork
+msgctxt "unittranslate.lblwork"
+msgid "Work"
+msgstr "काम"
+
+#: unittranslate.letsbegin
+msgctxt "unittranslate.letsbegin"
+msgid "Let's begin"
+msgstr "चलो शुरू करें"
+
+#: unittranslate.msgareyousure
+msgid "Are you sure you want to delete "
+msgstr "क्या आप पक्का इसे हटाना चाहते हैं"
+
+#: unittranslate.msgfilehasbeenchanged
+msgid "Your LazLock file has been changed.\n"
+"Do you want to save before you exit?\n"
+""
+msgstr "आपकी LazLock फ़ाइल बदल दी गई है\n"
+"क्या आप बाहर निकलने से पहले सहेजना चाहते हैं?\n"
+""
+
+#: unittranslate.msgsavechanges
+msgid "Save changes?"
+msgstr "परिवर्तनों को सुरक्षित करें?"
+
+#: unittranslate.newpw1message
+msgctxt "unittranslate.newpw1message"
+msgid "Enter a new password to encrypt this file."
+msgstr "इस फ़ाइल को एन्क्रिप्ट करने के लिए एक नया पासवर्ड दर्ज करें।"
+
+#: unittranslate.newvaultmessage
+msgctxt "unittranslate.newvaultmessage"
+msgid "A new LazLock vault will be created.\n"
+"Please enter a new password that will be used to protect your data.\n"
+"\n"
+"IT IS IMPORTANT THAT YOU NEVER FORGET THIS PASSWORD.\n"
+"To protect your privacy, LazLock will not create a backup of your password.\n"
+""
+msgstr "एक नया लाजॉक वॉल्ट बनाया जाएगा\n"
+"कृपया एक नया पासवर्ड दर्ज करें जो आपके डेटा को सुरक्षित रखने के लिए उपयोग किया जाएगा।\n"
+"\n"
+"यह महत्वपूर्ण है कि आप इस पासवर्ड को भूल नहीं करते हैं\n"
+"आपकी गोपनीयता की सुरक्षा के लिए, LazLock आपके पासवर्ड का बैकअप नहीं बनाएगा\n"
+""
+
+#: unittranslate.nochangemessage
+msgctxt "unittranslate.nochangemessage"
+msgid "Passwords do not match.\n"
+"Current password has not been changed.\n"
+""
+msgstr "पासवर्ड मेल नहीं खाते।\n"
+"वर्तमान पासवर्ड परिवर्तित नहीं किया गया है।\n"
+""
+
+#: unittranslate.noentrymessage
+msgctxt "unittranslate.noentrymessage"
+msgid "No entry selected"
+msgstr "कोई प्रविष्टि चयनित नहीं"
+
+#: unittranslate.nopasswordexit
+msgctxt "unittranslate.nopasswordexit"
+msgid "No password entered, LazLock will exit"
+msgstr "कोई पासवर्ड दर्ज नहीं किया गया, LazLock बाहर निकल जाएगा"
+
+#: unittranslate.openlinkdefaultbrowser
+msgctxt "unittranslate.openlinkdefaultbrowser"
+msgid "Open link in default web browser"
+msgstr "डिफ़ॉल्ट वेब ब्राउज़र में लिंक खोलें"
+
+#: unittranslate.openpwgeneratorcaption
+msgctxt "unittranslate.openpwgeneratorcaption"
+msgid "Open Password Generator"
+msgstr "पासवर्ड जनरेटर खोलें"
+
+#: unittranslate.pwgeneratorcaption
+msgctxt "unittranslate.pwgeneratorcaption"
+msgid "Password Generator"
+msgstr "पासवर्ड जनरेटर"
+
+#: unittranslate.reenterpw
+msgctxt "unittranslate.reenterpw"
+msgid "Please re-enter the password to confirm."
+msgstr "पुष्टि करने के लिए कृपया पासवर्ड पुनः दर्ज करें"
+
+#: unittranslate.selectpwcharacters
+msgctxt "unittranslate.selectpwcharacters"
+msgid "Please select which characters to include in your password."
+msgstr "कृपया अपने पासवर्ड में शामिल करने वाले पात्रों का चयन करें।"
+
+#: unittranslate.statusaddentry
+msgctxt "unittranslate.statusaddentry"
+msgid "Add a new entry"
+msgstr "एक नई प्रविष्टि जोड़ें"
+
+#: unittranslate.statuseditentry
+msgctxt "unittranslate.statuseditentry"
+msgid "Edit an entry"
+msgstr "एक प्रविष्टि संपादित करें"
+
+#: unittranslate.statusenablebrackets
+msgctxt "unittranslate.statusenablebrackets"
+msgid "Enable brackets in password"
+msgstr "पासवर्ड में कोष्ठक को सक्षम करें"
+
+#: unittranslate.statusenablelowercase
+msgctxt "unittranslate.statusenablelowercase"
+msgid "Enable lowercase letters in password"
+msgstr "पासवर्ड में लोअरकेस अक्षरों को सक्षम करें"
+
+#: unittranslate.statusenablenumbers
+msgctxt "unittranslate.statusenablenumbers"
+msgid "Enable numbers in password"
+msgstr "पासवर्ड में नंबर सक्षम करें"
+
+#: unittranslate.statusenablespaces
+msgctxt "unittranslate.statusenablespaces"
+msgid "Enable spaces   *note: Not all websites allow spaces in passwords"
+msgstr "रिक्त स्थान सक्षम करें * नोट: सभी वेबसाइट पासवर्डों में रिक्त स्थान की अनुमति नहीं देते हैं"
+
+#: unittranslate.statusenablesymbols
+msgctxt "unittranslate.statusenablesymbols"
+msgid "Enable symbols / special characters in password"
+msgstr "पासवर्ड में प्रतीकों / विशेष वर्णों को सक्षम करें"
+
+#: unittranslate.statusenableuppercase
+msgctxt "unittranslate.statusenableuppercase"
+msgid "Enable uppercase letters in password"
+msgstr "पासवर्ड में अपरकेस अक्षरों को सक्षम करें"
+
+#: unittranslate.statusexitlazlock
+msgctxt "unittranslate.statusexitlazlock"
+msgid "Exit LazLock"
+msgstr "बाहर निकलें LazLock"
+
+#: unittranslate.statusremoveentry
+msgctxt "unittranslate.statusremoveentry"
+msgid "Remove an entry"
+msgstr "एक प्रविष्टि निकालें"
+
+#: unittranslate.statussaveencrypt
+msgctxt "unittranslate.statussaveencrypt"
+msgid "Save and encrypt database"
+msgstr "डाटाबेस को सुरक्षित और एन्क्रिप्ट करें"
+
+#: unittranslate.statusselectpwlength
+msgctxt "unittranslate.statusselectpwlength"
+msgid "Select number of characters in password"
+msgstr "पासवर्ड में वर्णों की संख्या का चयन करें"
+
+#: unittranslate.strongpw
+msgctxt "unittranslate.strongpw"
+msgid "Strong password"
+msgstr "मजबूत पासवर्ड"
+
+#: unittranslate.verystrongpw
+msgctxt "unittranslate.verystrongpw"
+msgid "Very strong password"
+msgstr "बहुत मजबूत पासवर्ड"
+
+#: unittranslate.veryweakpw
+msgctxt "unittranslate.veryweakpw"
+msgid "Very weak password"
+msgstr "बहुत कमजोर पासवर्ड"
+
+#: unittranslate.weakpw
+msgctxt "unittranslate.weakpw"
+msgid "Weak password"
+msgstr "कमजोर पासवर्ड"
+
+#: unittranslate.welcomemessagedialog
+msgctxt "unittranslate.welcomemessagedialog"
+msgid "Welcome to LazLock Password Manager\n"
+"A new vault has been created for you to begin storing your passwords.\n"
+"Do you wish to view the online help?\n"
+""
+msgstr "LazLock पासवर्ड प्रबंधक में आपका स्वागत है\n"
+"आपके पासवर्ड को संचय करना शुरू करने के लिए आपके लिए एक नया वॉल्ट बनाया गया है।\n"
+"क्या आप ऑनलाइन सहायता देखना चाहते हैं?\n"
+""
+
+#: tmainlazlock.menuitem2.caption
+msgctxt "tmainlazlock.menuitem2.caption"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.menuitem4.caption
+msgctxt "tmainlazlock.menuitem4.caption"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.menuitem7.caption
+msgctxt "tmainlazlock.menuitem7.caption"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.rcmmnuopenurl.caption
+msgctxt "tmainlazlock.rcmmnuopenurl.caption"
+msgid "Open in browser"
+msgstr "ब्राउज़र में खोलें"
+
+#: tmainlazlock.rcmnuopenurl.caption
+msgctxt "tmainlazlock.rcmnuopenurl.caption"
+msgid "Open in browser"
+msgstr "ब्राउज़र में खोलें"
+
+#: tmainlazlock.stmmnuaddentry.caption
+msgctxt "tmainlazlock.stmmnuaddentry.caption"
+msgid "Add Entry"
+msgstr "प्रविष्टि जोड़ें"
+
+#: tmainlazlock.stmmnupwgen.caption
+msgctxt "tmainlazlock.stmmnupwgen.caption"
+msgid "Password Generator"
+msgstr "पासवर्ड जनरेटर"
+
+#: tpasswordgenerator.edname1.caption
+msgctxt "tpasswordgenerator.edname1.caption"
+msgid "Name of Site"
+msgstr "साइट का नाम"
+
+#: tpasswordgenerator.edname2.caption
+msgctxt "tpasswordgenerator.edname2.caption"
+msgid "Name of Site"
+msgstr "साइट का नाम"
+
+#: tpasswordgenerator.ednamea.texthint
+msgid "eg Cpunk-Security"
+msgstr "जैसे Cpunk-Security"
+
+#: tpasswordgenerator.edpassword1.caption
+msgctxt "tpasswordgenerator.edpassword1.caption"
+msgid "Password"
+msgstr "पारण शब्द"
+
+#: tpasswordgenerator.edpassword2.caption
+msgctxt "tpasswordgenerator.edpassword2.caption"
+msgid "Password"
+msgstr "पारण शब्द"
+
+#: tpasswordgenerator.edurl1.caption
+msgctxt "tpasswordgenerator.edurl1.caption"
+msgid "URL"
+msgstr "यूआरएल"
+
+#: tpasswordgenerator.edurl2.caption
+msgctxt "tpasswordgenerator.edurl2.caption"
+msgid "URL"
+msgstr "यूआरएल"
+
+#: tpasswordgenerator.edurla.texthint
+msgid "https://www.cpunk-security.com/"
+msgstr "https://www.cpunk-security.com/"
+
+#: tpasswordgenerator.eduser1.caption
+msgctxt "tpasswordgenerator.eduser1.caption"
+msgid "Username"
+msgstr "उपयोगकर्ता नाम"
+
+#: tpasswordgenerator.eduser2.caption
+msgctxt "tpasswordgenerator.eduser2.caption"
+msgid "Username"
+msgstr "उपयोगकर्ता नाम"
+
+#: tmainlazlock.menuitem11.caption
+msgctxt "tmainlazlock.menuitem11.caption"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.menuitem6.caption
+msgctxt "tmainlazlock.menuitem6.caption"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.rcmmnucopypw.caption
+msgctxt "tmainlazlock.rcmmnucopypw.caption"
+msgid "Copy Password"
+msgstr "पासवर्ड कॉपी करें"
+
+#: tmainlazlock.rcmmnucopyurl.caption
+msgctxt "tmainlazlock.rcmmnucopyurl.caption"
+msgid "Copy URL"
+msgstr "यूआरएल कॉपी करें"
+
+#: tmainlazlock.rcmmnucopyuser.caption
+msgctxt "tmainlazlock.rcmmnucopyuser.caption"
+msgid "Copy Username"
+msgstr "उपयोगकर्ता नाम कॉपी करें"
+
+#: tmainlazlock.rcmnucopypassword.caption
+msgctxt "tmainlazlock.rcmnucopypassword.caption"
+msgid "Copy Password"
+msgstr "पासवर्ड कॉपी करें"
+
+#: tmainlazlock.rcmnucopyurl.caption
+msgctxt "tmainlazlock.rcmnucopyurl.caption"
+msgid "Copy URL"
+msgstr "यूआरएल कॉपी करें"
+
+#: tmainlazlock.rcmnucopyusername.caption
+msgctxt "tmainlazlock.rcmnucopyusername.caption"
+msgid "Copy Username"
+msgstr "उपयोगकर्ता नाम कॉपी करें"
+
+#: tmainlazlock.stmmnuexit.caption
+msgctxt "tmainlazlock.stmmnuexit.caption"
+msgid "Exit LazLock"
+msgstr "बाहर निकलें LazLock"
+
+#: tpasswordgenerator.edurla.texthint
+msgctxt "tpasswordgenerator.edurla.texthint"
+msgid "https://www.cpunk-security.com/"
+msgstr "https://www.cpunk-security.com/"
+
+#: unittranslate.categoryselect
+msgctxt "unittranslate.categoryselect"
+msgid "Select"
+msgstr "चुनते हैं"
+
+#: unittranslate.statustotalrecords
+msgid " records in LazLock"
+msgstr " LazLock में रिकॉर्ड"
+

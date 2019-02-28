@@ -1,0 +1,1167 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: LazLock\n"
+"Language: pl\n"
+
+#: tmainlazlock.btnbanking.caption
+msgctxt "tmainlazlock.btnbanking.caption"
+msgid "Banking"
+msgstr "Bankowy"
+
+#: tmainlazlock.btneducation.caption
+msgctxt "tmainlazlock.btneducation.caption"
+msgid "Education"
+msgstr "Edukacja"
+
+#: tmainlazlock.btnemail.caption
+msgctxt "tmainlazlock.btnemail.caption"
+msgid "Email"
+msgstr "Email"
+
+#: tmainlazlock.btnmedia.caption
+msgctxt "tmainlazlock.btnmedia.caption"
+msgid "Media"
+msgstr "Media"
+
+#: tmainlazlock.btnother.caption
+msgctxt "tmainlazlock.btnother.caption"
+msgid "Other"
+msgstr "Inny"
+
+#: tmainlazlock.btnshopping.caption
+msgctxt "tmainlazlock.btnshopping.caption"
+msgid "Shopping"
+msgstr "Zakupy"
+
+#: tmainlazlock.btnshowall.caption
+msgctxt "tmainlazlock.btnshowall.caption"
+msgid "All"
+msgstr "Wszystko"
+
+#: tmainlazlock.btnsocialmedia.caption
+msgctxt "tmainlazlock.btnsocialmedia.caption"
+msgid "Social Media"
+msgstr "Media Społecznościowe"
+
+#: tmainlazlock.btnsoftware.caption
+msgctxt "tmainlazlock.btnsoftware.caption"
+msgid "Software"
+msgstr "Oprogramowanie"
+
+#: tmainlazlock.btnweb.caption
+msgctxt "tmainlazlock.btnweb.caption"
+msgid "Web"
+msgstr "Sieć"
+
+#: tmainlazlock.btnwork.caption
+msgctxt "tmainlazlock.btnwork.caption"
+msgid "Work"
+msgstr "Praca"
+
+#: tmainlazlock.caption
+msgid "LazLock"
+msgstr "LazLock"
+
+#: tmainlazlock.categoryheader.caption
+msgid "Categories"
+msgstr "Kategorie"
+
+#: tmainlazlock.labelpassword.caption
+msgctxt "TMAINLAZLOCK.LABELPASSWORD.CAPTION"
+msgid "Password"
+msgstr "Hasło"
+
+#: tmainlazlock.labelurl.caption
+msgctxt "TMAINLAZLOCK.LABELURL.CAPTION"
+msgid "URL"
+msgstr "URL"
+
+#: tmainlazlock.labeluser.caption
+msgctxt "TMAINLAZLOCK.LABELUSER.CAPTION"
+msgid "Username"
+msgstr "Nazwa Użytkownika"
+
+#: tmainlazlock.listview1.columns[0].caption
+msgctxt "tmainlazlock.listview1.columns[0].caption"
+msgid "Category"
+msgstr "Kategorie"
+
+#: tmainlazlock.listview1.columns[1].caption
+msgid "Logins"
+msgstr "Loginy"
+
+#: tmainlazlock.listview1.columns[2].caption
+msgctxt "tmainlazlock.listview1.columns[2].caption"
+msgid "URL"
+msgstr "URL"
+
+#: tmainlazlock.listview1.columns[3].caption
+msgctxt "tmainlazlock.listview1.columns[3].caption"
+msgid "Username"
+msgstr "Nazwa Użytkownika"
+
+#: tmainlazlock.listview1.columns[4].caption
+msgctxt "tmainlazlock.listview1.columns[4].caption"
+msgid "Password"
+msgstr "Hasło"
+
+#: tmainlazlock.listview1.columns[5].caption
+msgid "Image"
+msgstr "Obraz"
+
+#: tmainlazlock.menuitem1.caption
+msgctxt "tmainlazlock.menuitem1.caption"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.menuitem3.caption
+msgctxt "TMAINLAZLOCK.MENUITEM3.CAPTION"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.menuitem5.caption
+msgctxt "TMAINLAZLOCK.MENUITEM5.CAPTION"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.mnuabout.caption
+msgid "About"
+msgstr "Info"
+
+#: tmainlazlock.mnuadd.caption
+msgctxt "tmainlazlock.mnuadd.caption"
+msgid "Add Entry"
+msgstr "Dodaj Wpis"
+
+#: tmainlazlock.mnuadd.hint
+msgctxt "tmainlazlock.mnuadd.hint"
+msgid "Add a new entry"
+msgstr "Dodaj Nowy Wpis"
+
+#: tmainlazlock.mnubackup.caption
+msgid "Create backup"
+msgstr "Kopia Zapasowa"
+
+#: tmainlazlock.mnuchangepw.caption
+msgid "Change Password"
+msgstr "Zmień Hasło"
+
+#: tmainlazlock.mnudelete.caption
+msgctxt "tmainlazlock.mnudelete.caption"
+msgid "Delete Entry"
+msgstr "Usuń Wpis"
+
+#: tmainlazlock.mnudelete.hint
+msgctxt "tmainlazlock.mnudelete.hint"
+msgid "Remove an entry"
+msgstr "Usuń Wpis"
+
+#: tmainlazlock.mnuedit.caption
+msgctxt "tmainlazlock.mnuedit.caption"
+msgid "Edit Entry"
+msgstr "Edytuj Wpis"
+
+#: tmainlazlock.mnuedit.hint
+msgctxt "tmainlazlock.mnuedit.hint"
+msgid "Edit an entry"
+msgstr "Edytuj Wpis"
+
+#: tmainlazlock.mnueditdropdown.caption
+msgid "&Edit"
+msgstr "Edytuj"
+
+#: tmainlazlock.mnuexit.caption
+msgid "E&xit"
+msgstr "Zjazd"
+
+#: tmainlazlock.mnuexit.hint
+msgctxt "tmainlazlock.mnuexit.hint"
+msgid "Exit LazLock"
+msgstr "Zjazd LazLock"
+
+#: tmainlazlock.mnuexporttext.caption
+msgid "Export as plain text"
+msgstr "Eksportuj Jako Tekst"
+
+#: tmainlazlock.mnufile.caption
+msgid "&File"
+msgstr "Plik"
+
+#: tmainlazlock.mnuhelp.caption
+msgid "&Help"
+msgstr "Pomoc"
+
+#: tmainlazlock.mnuhelpdivider.caption
+msgctxt "TMAINLAZLOCK.MNUHELPDIVIDER.CAPTION"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.mnuonlinehelp.caption
+msgid "Online help"
+msgstr "Pomoc w internecie"
+
+#: tmainlazlock.mnupwgenerator.caption
+msgctxt "tmainlazlock.mnupwgenerator.caption"
+msgid "Password Generator"
+msgstr "Generator Hasełę"
+
+#: tmainlazlock.mnupwgenerator.hint
+msgctxt "tmainlazlock.mnupwgenerator.hint"
+msgid "Open Password Generator"
+msgstr "Otwórz Generator Haseł"
+
+#: tmainlazlock.mnusave.caption
+msgid "Encrypt and &Save"
+msgstr "szyfrować i zapisać"
+
+#: tmainlazlock.mnusave.hint
+msgctxt "tmainlazlock.mnusave.hint"
+msgid "Save and encrypt database"
+msgstr "Zapisz i zaszyfruj bazę danych"
+
+#: tmainlazlock.mnuseparator.caption
+msgctxt "TMAINLAZLOCK.MNUSEPARATOR.CAPTION"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.rcmmnuaddentry.caption
+msgctxt "TMAINLAZLOCK.RCMMNUADDENTRY.CAPTION"
+msgid "Add Entry"
+msgstr "Dodaj Wpis"
+
+#: tmainlazlock.rcmmnupwgen.caption
+msgctxt "TMAINLAZLOCK.RCMMNUPWGEN.CAPTION"
+msgid "Password Generator"
+msgstr "Generator Hasełę"
+
+#: tmainlazlock.rcmnuaddentry.caption
+msgctxt "TMAINLAZLOCK.RCMNUADDENTRY.CAPTION"
+msgid "Add Entry"
+msgstr "Dodaj Wpis"
+
+#: tmainlazlock.rcmnucopypassword.caption
+msgid "Copy Password"
+msgstr "Kopiuj hasło"
+
+#: tmainlazlock.rcmnucopyurl.caption
+msgid "Copy URL"
+msgstr "Kopiuj URL"
+
+#: tmainlazlock.rcmnucopyusername.caption
+msgid "Copy Username"
+msgstr "Kopiuj Nazwa Użytkownika"
+
+#: tmainlazlock.rcmnudeleteentry.caption
+msgctxt "TMAINLAZLOCK.RCMNUDELETEENTRY.CAPTION"
+msgid "Delete Entry"
+msgstr "Usuń Wpis"
+
+#: tmainlazlock.rcmnueditentry.caption
+msgctxt "TMAINLAZLOCK.RCMNUEDITENTRY.CAPTION"
+msgid "Edit Entry"
+msgstr "Edytuj Wpis"
+
+#: tmainlazlock.rcmnupwgenerator.caption
+msgctxt "TMAINLAZLOCK.RCMNUPWGENERATOR.CAPTION"
+msgid "Password Generator"
+msgstr "Generator Hasełę"
+
+#: tmainlazlock.savedialog1.title
+msgid "Save unencrypted text file as"
+msgstr "Eksportuj Jako Tekst"
+
+#: tmainlazlock.tbdivider1.caption
+msgid "TBdivider1"
+msgstr "TBdivider1"
+
+#: tmainlazlock.tbdivider2.caption
+msgid "TBdivider2"
+msgstr "TBdivider2"
+
+#: tmainlazlock.tbdivider3.caption
+msgid "TBdivider3"
+msgstr "TBdivider3"
+
+#: tmainlazlock.tbquit.caption
+msgid "TBQuit"
+msgstr "TBQuit"
+
+#: tmainlazlock.tbsave.caption
+msgid "TBSave"
+msgstr "TBSave"
+
+#: tmainlazlock.toolbar1.caption
+msgid "ToolBar1"
+msgstr "ToolBar1"
+
+#: tpasswordgenerator.abox.caption
+msgid "Symbols"
+msgstr "Symbolika"
+
+#: tpasswordgenerator.bbox.caption
+msgid "Numbers"
+msgstr "Liczby"
+
+#: tpasswordgenerator.btnadd.caption
+msgid "Add"
+msgstr "Dodaj"
+
+#: tpasswordgenerator.btncancel.caption
+msgctxt "tpasswordgenerator.btncancel.caption"
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: tpasswordgenerator.btncancel2.caption
+msgctxt "tpasswordgenerator.btncancel2.caption"
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: tpasswordgenerator.btnclose.caption
+msgid "Close"
+msgstr "Zamknąć"
+
+#: tpasswordgenerator.btncopy.caption
+msgid "Copy"
+msgstr "Kopiuj"
+
+#: tpasswordgenerator.btngenpw.caption
+msgid "Generate password"
+msgstr "wygenerować hasło"
+
+#: tpasswordgenerator.btnsavechanges.caption
+msgid "Save changes"
+msgstr "Zapisz zmiany"
+
+#: tpasswordgenerator.caption
+msgctxt "tpasswordgenerator.caption"
+msgid "Add Entry / Password Generator"
+msgstr "Dodaj Wpis / Generator Hasełę"
+
+#: tpasswordgenerator.cbox.caption
+msgid "Uppercase"
+msgstr "Duże litery"
+
+#: tpasswordgenerator.dbox.caption
+msgid "Lowercase"
+msgstr "Małe litery"
+
+#: tpasswordgenerator.ebox.caption
+msgid "Brackets"
+msgstr "Nawiasy"
+
+#: tpasswordgenerator.edcategory.text
+msgctxt "tpasswordgenerator.edcategory.text"
+msgid "Select"
+msgstr "Wybierz"
+
+#: tpasswordgenerator.edcategory2.text
+msgctxt "tpasswordgenerator.edcategory2.text"
+msgid "Select"
+msgstr "Wybierz"
+
+#: tpasswordgenerator.edimage.hint
+msgctxt "tpasswordgenerator.edimage.hint"
+msgid "Select an icon"
+msgstr "Wybrać ikonę"
+
+#: tpasswordgenerator.edimage2.hint
+msgctxt "tpasswordgenerator.edimage2.hint"
+msgid "Select an icon"
+msgstr "Wybrać ikonę"
+
+#: tpasswordgenerator.edname.editlabel.caption
+msgctxt "tpasswordgenerator.edname.editlabel.caption"
+msgid "Name of site"
+msgstr "Nazwa witryny"
+
+#: tpasswordgenerator.edname.texthint
+msgctxt "tpasswordgenerator.edname.texthint"
+msgid "e.g.  CPunk-Security"
+msgstr "e.g.  CPunk-Security"
+
+#: tpasswordgenerator.edname2.editlabel.caption
+msgctxt "tpasswordgenerator.edname2.editlabel.caption"
+msgid "Name of site"
+msgstr "Nazwa witryny"
+
+#: tpasswordgenerator.edname2.texthint
+msgctxt "tpasswordgenerator.edname2.texthint"
+msgid "e.g.  CPunk-Security"
+msgstr "e.g.  CPunk-Security"
+
+#: tpasswordgenerator.edpassword.editlabel.caption
+msgctxt "tpasswordgenerator.edpassword.editlabel.caption"
+msgid "Password"
+msgstr "Hasło"
+
+#: tpasswordgenerator.edpassword2.editlabel.caption
+msgctxt "tpasswordgenerator.edpassword2.editlabel.caption"
+msgid "Password"
+msgstr "Hasło"
+
+#: tpasswordgenerator.edurl.editlabel.caption
+msgctxt "tpasswordgenerator.edurl.editlabel.caption"
+msgid "Web address"
+msgstr "Adres internetowy"
+
+#: tpasswordgenerator.edurl.texthint
+msgctxt "tpasswordgenerator.edurl.texthint"
+msgid "https://www.cpunk-security.com/"
+msgstr "https://www.cpunk-security.com/"
+
+#: tpasswordgenerator.edurl2.editlabel.caption
+msgctxt "tpasswordgenerator.edurl2.editlabel.caption"
+msgid "Web address"
+msgstr "Adres internetowy"
+
+#: tpasswordgenerator.edurl2.texthint
+msgctxt "tpasswordgenerator.edurl2.texthint"
+msgid "https://www.cpunk-security.com/"
+msgstr "https://www.cpunk-security.com/"
+
+#: tpasswordgenerator.eduser.editlabel.caption
+msgctxt "tpasswordgenerator.eduser.editlabel.caption"
+msgid "Username"
+msgstr "Nazwa Użytkownika"
+
+#: tpasswordgenerator.eduser2.editlabel.caption
+msgctxt "tpasswordgenerator.eduser2.editlabel.caption"
+msgid "Username"
+msgstr "Nazwa Użytkownika"
+
+#: tpasswordgenerator.fbox.caption
+msgid "Spaces"
+msgstr "Spacje"
+
+#: tpasswordgenerator.label1.caption
+msgid "Length of password"
+msgstr "Długość hasło"
+
+#: tpasswordgenerator.label2.caption
+msgctxt "tpasswordgenerator.label2.caption"
+msgid "Generate a random password"
+msgstr "Generowanie losowe hasło"
+
+#: tpasswordgenerator.lblcategory.caption
+msgctxt "tpasswordgenerator.lblcategory.caption"
+msgid "Category"
+msgstr "Kategorie"
+
+#: tpasswordgenerator.lblcategory2.caption
+msgctxt "tpasswordgenerator.lblcategory2.caption"
+msgid "Category"
+msgstr "Kategorie"
+
+#: tpasswordgenerator.lblicon.caption
+msgctxt "tpasswordgenerator.lblicon.caption"
+msgid "Select an icon"
+msgstr "Wybrać ikonę"
+
+#: tpasswordgenerator.lblicon2.caption
+msgctxt "tpasswordgenerator.lblicon2.caption"
+msgid "Select an icon"
+msgstr "Wybrać ikonę"
+
+#: tpasswordgenerator.lbltitle.caption
+msgid "Create a new entry"
+msgstr "Dodaj Nowy Wpis"
+
+#: tpasswordgenerator.lbltitle1.caption
+msgctxt "tpasswordgenerator.lbltitle1.caption"
+msgid "Edit Entry"
+msgstr "Edytuj Wpis"
+
+#: tpasswordgenerator.linkpwgenerator.caption
+msgctxt "tpasswordgenerator.linkpwgenerator.caption"
+msgid "Use Password Generator"
+msgstr "Używać Generatora Haseł"
+
+#: tpasswordgenerator.linkpwgenerator2.caption
+msgctxt "tpasswordgenerator.linkpwgenerator2.caption"
+msgid "Use Password Generator"
+msgstr "Używać Generatora Haseł"
+
+#: tpasswordgenerator.optionsgroup.caption
+msgid "Password options"
+msgstr "Opcje hasła"
+
+#: tpasswordgenerator.tabeditentry.caption
+msgctxt "tpasswordgenerator.tabeditentry.caption"
+msgid "Edit Entry"
+msgstr "Edytuj Wpis"
+
+#: tpasswordgenerator.tabenternew.caption
+msgid "Add entry"
+msgstr "Dodaj Wpis"
+
+#: tpasswordgenerator.tabpwgenerator.caption
+msgctxt "tpasswordgenerator.tabpwgenerator.caption"
+msgid "Password Generator"
+msgstr "Generator Hasełę"
+
+#: unitmain.addentrypwgeneratorcaption
+msgctxt "unitmain.addentrypwgeneratorcaption"
+msgid "Add Entry / Password Generator"
+msgstr "Dodaj Wpis / Generator Hasełę"
+
+#: unitmain.changecaption
+msgctxt "unitmain.changecaption"
+msgid "Change password"
+msgstr "Zmień Hasło"
+
+#: unitmain.confirmcaption
+msgctxt "unitmain.confirmcaption"
+msgid "Confirm password"
+msgstr "Potwierdź hasło"
+
+#: unitmain.copytocboard
+msgctxt "unitmain.copytocboard"
+msgid "Copy to the clipboard"
+msgstr "Skopiuj do schowka"
+
+#: unitmain.createcaption
+msgctxt "unitmain.createcaption"
+msgid "Create a new file"
+msgstr "Utwórz nowy plik"
+
+#: unitmain.dontmatch
+msgctxt "unitmain.dontmatch"
+msgid "Passwords do not match\n"
+"LazLock will now exit\n"
+""
+msgstr "Hasła nie pasują do siebie\n"
+"LazLock zostanie zamknięty\n"
+""
+
+#: unitmain.enterpw
+msgctxt "unitmain.enterpw"
+msgid "Please enter your password."
+msgstr "Wprowadź hasło."
+
+#: unitmain.enterpwcaption
+msgctxt "unitmain.enterpwcaption"
+msgid "Enter password"
+msgstr "Wprowadź hasło."
+
+#: unitmain.exitdecryptmessage
+msgctxt "unitmain.exitdecryptmessage"
+msgid "Incorrect password entered.\n"
+"LazLock will now quit.\n"
+""
+msgstr "Hasło nieprawidłowe.\n"
+"LazLock zostanie zamknięty.\n"
+""
+
+#: unitmain.letsbegin
+msgctxt "unitmain.letsbegin"
+msgid "Let's begin"
+msgstr "Zaczynajmy"
+
+#: unitmain.newpw1message
+msgctxt "unitmain.newpw1message"
+msgid "Enter a new password to encrypt this file."
+msgstr "Aby zaszyfrować plik, wprowadź nowe hasło."
+
+#: unitmain.newvaultmessage
+msgctxt "unitmain.newvaultmessage"
+msgid "A new LazLock vault will be created.\n"
+"Please enter a new password that will be used to protect your data.\n"
+"\n"
+"IT IS IMPORTANT THAT YOU NEVER FORGET THIS PASSWORD.\n"
+"To protect your privacy, LazLock will not create a backup of your password.\n"
+""
+msgstr "Zostanie utworzony nowy LazLock skarbiec .\n"
+"\n"
+"Wprowadź nowe hasło, które będzie używane do ochrony danych.\n"
+"\n"
+"\n"
+"To hasło jest ważne. Zapamiętaj je.\n"
+"Aby chronić Twoją prywatność, LazLock nie tworzy kopii zapasowej.\n"
+""
+
+#: unitmain.nochangemessage
+msgctxt "unitmain.nochangemessage"
+msgid "Passwords do not match.\n"
+"Current password has not been changed.\n"
+""
+msgstr "Hasła nie pasują do siebie.\n"
+"Hasło nie zostało zmienione.\n"
+""
+
+#: unitmain.noentrymessage
+msgctxt "unitmain.noentrymessage"
+msgid "No entry selected"
+msgstr "Nie dokonano wyboru"
+
+#: unitmain.nopasswordexit
+msgctxt "unitmain.nopasswordexit"
+msgid "No password entered, LazLock will exit"
+msgstr "Nie wprowadzone hasło, LazLock zostanie zamknięty"
+
+#: unitmain.openlinkdefaultbrowser
+msgctxt "unitmain.openlinkdefaultbrowser"
+msgid "Open link in default web browser"
+msgstr "Otwórz link w domyślnej przeglądarce internetowej"
+
+#: unitmain.reenterpw
+msgctxt "unitmain.reenterpw"
+msgid "Please re-enter the password to confirm."
+msgstr "Wprowadź hasło ponownie"
+
+#: unitmain.welcomemessagedialog
+msgctxt "unitmain.welcomemessagedialog"
+msgid "Welcome to LazLock Password Manager\n"
+"A new vault has been created for you to begin storing your passwords.\n"
+"Do you wish to view the online help?\n"
+""
+msgstr "Witamy LazLock Menedżer Haseł\n"
+"Nowy skarbiec został stworzony, aby rozpocząć przechowywania haseł.\n"
+"Czy chcesz wyświetlić pomoc w Internecie?\n"
+""
+
+#: unitpassword.averagepw
+msgctxt "unitpassword.averagepw"
+msgid "Average strength password"
+msgstr "Średnia"
+
+#: unitpassword.closepwgenerator
+msgctxt "unitpassword.closepwgenerator"
+msgid "Close password generator"
+msgstr "Zamknij generator haseł"
+
+#: unitpassword.completeallfields
+msgctxt "unitpassword.completeallfields"
+msgid "Please complete all fields to add a new entry"
+msgstr "Proszę wypełnić wszystkie pola"
+
+#: unitpassword.copypwtoclipboard
+msgctxt "unitpassword.copypwtoclipboard"
+msgid "Copy password to clipboard"
+msgstr "Skopiuj do schowka"
+
+#: unitpassword.generaterandompw
+msgctxt "unitpassword.generaterandompw"
+msgid "Generate a random password"
+msgstr "Generowanie losowe hasło"
+
+#: unitpassword.selectpwcharacters
+msgctxt "unitpassword.selectpwcharacters"
+msgid "Please select which characters to include in your password."
+msgstr "Proszę wybrać znaki na hasło."
+
+#: unitpassword.statusenablebrackets
+msgctxt "unitpassword.statusenablebrackets"
+msgid "Enable brackets in password"
+msgstr "Zawierać nawiasy"
+
+#: unitpassword.statusenablelowercase
+msgctxt "unitpassword.statusenablelowercase"
+msgid "Enable lowercase letters in password"
+msgstr "Zawierać małe litery"
+
+#: unitpassword.statusenablenumbers
+msgctxt "unitpassword.statusenablenumbers"
+msgid "Enable numbers in password"
+msgstr "Zawierać liczby"
+
+#: unitpassword.statusenablespaces
+msgctxt "unitpassword.statusenablespaces"
+msgid "Enable spaces   *note: Not all websites allow spaces in passwords"
+msgstr "Zawierać spacje"
+
+#: unitpassword.statusenablesymbols
+msgctxt "unitpassword.statusenablesymbols"
+msgid "Enable symbols / special characters in password"
+msgstr "Zawierać symbolika"
+
+#: unitpassword.statusenableuppercase
+msgctxt "unitpassword.statusenableuppercase"
+msgid "Enable uppercase letters in password"
+msgstr "Zawierać duże litery"
+
+#: unitpassword.statusselectpwlength
+msgctxt "unitpassword.statusselectpwlength"
+msgid "Select number of characters in password"
+msgstr "Wybierz liczbę znaków w hasło"
+
+#: unitpassword.strongpw
+msgctxt "unitpassword.strongpw"
+msgid "Strong password"
+msgstr "Silne Hasło"
+
+#: unitpassword.verystrongpw
+msgctxt "unitpassword.verystrongpw"
+msgid "Very strong password"
+msgstr "Bardzo Silne Hasło"
+
+#: unitpassword.veryweakpw
+msgctxt "unitpassword.veryweakpw"
+msgid "Very weak password"
+msgstr "Bardzo Słabe Hasło"
+
+#: unitpassword.weakpw
+msgctxt "unitpassword.weakpw"
+msgid "Weak password"
+msgstr "Słabe Hasło"
+
+#: unittranslate.addentrypwgeneratorcaption
+msgctxt "unittranslate.addentrypwgeneratorcaption"
+msgid "Add Entry / Password Generator"
+msgstr "Dodaj Wpis / Generator Hasełę"
+
+#: unittranslate.averagepw
+msgctxt "unittranslate.averagepw"
+msgid "Average strength password"
+msgstr "Średnia"
+
+#: unittranslate.changecaption
+msgctxt "unittranslate.changecaption"
+msgid "Change password"
+msgstr "Zmień Hasło"
+
+#: unittranslate.closepwgenerator
+msgctxt "unittranslate.closepwgenerator"
+msgid "Close password generator"
+msgstr "Zamknij generator haseł"
+
+#: unittranslate.completeallfields
+msgctxt "unittranslate.completeallfields"
+msgid "Please complete all fields to add a new entry"
+msgstr "Proszę wypełnić wszystkie pola"
+
+#: unittranslate.confirmcaption
+msgctxt "unittranslate.confirmcaption"
+msgid "Confirm password"
+msgstr "Potwierdź hasło"
+
+#: unittranslate.copypwtoclipboard
+msgctxt "unittranslate.copypwtoclipboard"
+msgid "Copy password to clipboard"
+msgstr "Skopiuj do schowka"
+
+#: unittranslate.copytocboard
+msgctxt "unittranslate.copytocboard"
+msgid "Copy to the clipboard"
+msgstr "Skopiuj do schowka"
+
+#: unittranslate.createcaption
+msgctxt "unittranslate.createcaption"
+msgid "Create a new file"
+msgstr "Utwórz nowy plik"
+
+#: unittranslate.dontmatch
+msgctxt "unittranslate.dontmatch"
+msgid "Passwords do not match\n"
+"LazLock will now exit\n"
+""
+msgstr "Hasła nie pasują do siebie\n"
+"LazLock zostanie zamknięty\n"
+""
+
+#: unittranslate.editentrypwgeneratorcaption
+msgid "Edit Entry / Password Generator"
+msgstr "Edytuj Wpis / Generator Hasełę"
+
+#: unittranslate.enterpw
+msgctxt "unittranslate.enterpw"
+msgid "Please enter your password."
+msgstr "Wprowadź hasło."
+
+#: unittranslate.enterpwcaption
+msgctxt "unittranslate.enterpwcaption"
+msgid "Enter password"
+msgstr "Wprowadź hasło."
+
+#: unittranslate.exitdecryptmessage
+msgctxt "unittranslate.exitdecryptmessage"
+msgid "Incorrect password entered.\n"
+"LazLock will now quit.\n"
+""
+msgstr "Hasło nieprawidłowe.\n"
+"LazLock zostanie zamknięty.\n"
+""
+
+#: unittranslate.generaterandompw
+msgctxt "unittranslate.generaterandompw"
+msgid "Generate a random password"
+msgstr "Generowanie losowe hasło"
+
+#: unittranslate.lblall
+msgctxt "unittranslate.lblall"
+msgid "All"
+msgstr "Wszystko"
+
+#: unittranslate.lblbanking
+msgctxt "unittranslate.lblbanking"
+msgid "Banking"
+msgstr "Bankowy"
+
+#: unittranslate.lbleducation
+msgctxt "unittranslate.lbleducation"
+msgid "Education"
+msgstr "Edukacja"
+
+#: unittranslate.lblemail
+msgctxt "unittranslate.lblemail"
+msgid "Email"
+msgstr "Email"
+
+#: unittranslate.lblmedia
+msgctxt "unittranslate.lblmedia"
+msgid "Media"
+msgstr "Media"
+
+#: unittranslate.lblother
+msgctxt "unittranslate.lblother"
+msgid "Other"
+msgstr "Inny"
+
+#: unittranslate.lblshopping
+msgctxt "unittranslate.lblshopping"
+msgid "Shopping"
+msgstr "Zakupy"
+
+#: unittranslate.lblsocialmedia
+msgctxt "unittranslate.lblsocialmedia"
+msgid "Social Media"
+msgstr "Media Społecznościowe"
+
+#: unittranslate.lblsoftware
+msgctxt "unittranslate.lblsoftware"
+msgid "Software"
+msgstr "Oprogramowanie"
+
+#: unittranslate.lblweb
+msgctxt "unittranslate.lblweb"
+msgid "Web"
+msgstr "Sieć"
+
+#: unittranslate.lblwork
+msgctxt "unittranslate.lblwork"
+msgid "Work"
+msgstr "Praca"
+
+#: unittranslate.letsbegin
+msgctxt "unittranslate.letsbegin"
+msgid "Let's begin"
+msgstr "Zaczynajmy"
+
+#: unittranslate.msgareyousure
+msgid "Are you sure you want to delete "
+msgstr "Czy na pewno chcesz usunąć "
+
+#: unittranslate.msgfilehasbeenchanged
+msgid "Your LazLock file has been changed.\n"
+"Do you want to save before you exit?\n"
+""
+msgstr "Plik został zmieniony.\n"
+"Chcesz zaoszczędzić?\n"
+""
+
+#: unittranslate.msgsavechanges
+msgid "Save changes?"
+msgstr "Czy zapisać zmiany?"
+
+#: unittranslate.newpw1message
+msgctxt "unittranslate.newpw1message"
+msgid "Enter a new password to encrypt this file."
+msgstr "Aby zaszyfrować plik, wprowadź nowe hasło."
+
+#: unittranslate.newvaultmessage
+msgctxt "unittranslate.newvaultmessage"
+msgid "A new LazLock vault will be created.\n"
+"Please enter a new password that will be used to protect your data.\n"
+"\n"
+"IT IS IMPORTANT THAT YOU NEVER FORGET THIS PASSWORD.\n"
+"To protect your privacy, LazLock will not create a backup of your password.\n"
+""
+msgstr "Zostanie utworzony nowy LazLock skarbiec .\n"
+"\n"
+"Wprowadź nowe hasło, które będzie używane do ochrony danych.\n"
+"\n"
+"\n"
+"To hasło jest ważne. Zapamiętaj je.\n"
+"Aby chronić Twoją prywatność, LazLock nie tworzy kopii zapasowej.\n"
+""
+
+#: unittranslate.nochangemessage
+msgctxt "unittranslate.nochangemessage"
+msgid "Passwords do not match.\n"
+"Current password has not been changed.\n"
+""
+msgstr "Hasła nie pasują do siebie.\n"
+"Hasło nie zostało zmienione.\n"
+""
+
+#: unittranslate.noentrymessage
+msgctxt "unittranslate.noentrymessage"
+msgid "No entry selected"
+msgstr "Nie dokonano wyboru"
+
+#: unittranslate.nopasswordexit
+msgctxt "unittranslate.nopasswordexit"
+msgid "No password entered, LazLock will exit"
+msgstr "Nie wprowadzone hasło, LazLock zostanie zamknięty"
+
+#: unittranslate.openlinkdefaultbrowser
+msgctxt "unittranslate.openlinkdefaultbrowser"
+msgid "Open link in default web browser"
+msgstr "Otwórz link w domyślnej przeglądarce internetowej"
+
+#: unittranslate.openpwgeneratorcaption
+msgctxt "unittranslate.openpwgeneratorcaption"
+msgid "Open Password Generator"
+msgstr "Otwórz Generator Haseł"
+
+#: unittranslate.pwgeneratorcaption
+msgctxt "unittranslate.pwgeneratorcaption"
+msgid "Password Generator"
+msgstr "Generator Hasełę"
+
+#: unittranslate.reenterpw
+msgctxt "unittranslate.reenterpw"
+msgid "Please re-enter the password to confirm."
+msgstr "Wprowadź hasło ponownie"
+
+#: unittranslate.selectpwcharacters
+msgctxt "unittranslate.selectpwcharacters"
+msgid "Please select which characters to include in your password."
+msgstr "Proszę wybrać znaki na hasło."
+
+#: unittranslate.statusaddentry
+msgctxt "unittranslate.statusaddentry"
+msgid "Add a new entry"
+msgstr "Dodaj Nowy Wpis"
+
+#: unittranslate.statuseditentry
+msgctxt "unittranslate.statuseditentry"
+msgid "Edit an entry"
+msgstr "Edytuj Wpis"
+
+#: unittranslate.statusenablebrackets
+msgctxt "unittranslate.statusenablebrackets"
+msgid "Enable brackets in password"
+msgstr "Zawierać nawiasy"
+
+#: unittranslate.statusenablelowercase
+msgctxt "unittranslate.statusenablelowercase"
+msgid "Enable lowercase letters in password"
+msgstr "Zawierać małe litery"
+
+#: unittranslate.statusenablenumbers
+msgctxt "unittranslate.statusenablenumbers"
+msgid "Enable numbers in password"
+msgstr "Zawierać liczby"
+
+#: unittranslate.statusenablespaces
+msgctxt "unittranslate.statusenablespaces"
+msgid "Enable spaces   *note: Not all websites allow spaces in passwords"
+msgstr "Zawierać spacje"
+
+#: unittranslate.statusenablesymbols
+msgctxt "unittranslate.statusenablesymbols"
+msgid "Enable symbols / special characters in password"
+msgstr "Zawierać symbolika"
+
+#: unittranslate.statusenableuppercase
+msgctxt "unittranslate.statusenableuppercase"
+msgid "Enable uppercase letters in password"
+msgstr "Zawierać duże litery"
+
+#: unittranslate.statusexitlazlock
+msgctxt "unittranslate.statusexitlazlock"
+msgid "Exit LazLock"
+msgstr "Zjazd LazLock"
+
+#: unittranslate.statusremoveentry
+msgctxt "unittranslate.statusremoveentry"
+msgid "Remove an entry"
+msgstr "Usuń Wpis"
+
+#: unittranslate.statussaveencrypt
+msgctxt "unittranslate.statussaveencrypt"
+msgid "Save and encrypt database"
+msgstr "Zapisz i zaszyfruj bazę danych"
+
+#: unittranslate.statusselectpwlength
+msgctxt "unittranslate.statusselectpwlength"
+msgid "Select number of characters in password"
+msgstr "Wybierz liczbę znaków w hasło"
+
+#: unittranslate.strongpw
+msgctxt "unittranslate.strongpw"
+msgid "Strong password"
+msgstr "Silne Hasło"
+
+#: unittranslate.verystrongpw
+msgctxt "unittranslate.verystrongpw"
+msgid "Very strong password"
+msgstr "Bardzo Silne Hasło"
+
+#: unittranslate.veryweakpw
+msgctxt "unittranslate.veryweakpw"
+msgid "Very weak password"
+msgstr "Bardzo Słabe Hasło"
+
+#: unittranslate.weakpw
+msgctxt "unittranslate.weakpw"
+msgid "Weak password"
+msgstr "Słabe Hasło"
+
+#: unittranslate.welcomemessagedialog
+msgctxt "unittranslate.welcomemessagedialog"
+msgid "Welcome to LazLock Password Manager\n"
+"A new vault has been created for you to begin storing your passwords.\n"
+"Do you wish to view the online help?\n"
+""
+msgstr "Witamy LazLock Menedżer Haseł\n"
+"Nowy skarbiec został stworzony, aby rozpocząć przechowywania haseł.\n"
+"Czy chcesz wyświetlić pomoc w Internecie?\n"
+""
+
+#: tmainlazlock.menuitem2.caption
+msgctxt "tmainlazlock.menuitem2.caption"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.menuitem4.caption
+msgctxt "tmainlazlock.menuitem4.caption"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.menuitem7.caption
+msgctxt "tmainlazlock.menuitem7.caption"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.rcmmnuopenurl.caption
+msgctxt "tmainlazlock.rcmmnuopenurl.caption"
+msgid "Open in browser"
+msgstr "Otwórz w przeglądarce"
+
+#: tmainlazlock.rcmnuopenurl.caption
+msgctxt "tmainlazlock.rcmnuopenurl.caption"
+msgid "Open in browser"
+msgstr "Otwórz w przeglądarce"
+
+#: tmainlazlock.stmmnuaddentry.caption
+msgctxt "tmainlazlock.stmmnuaddentry.caption"
+msgid "Add Entry"
+msgstr "Dodaj Wpis"
+
+#: tmainlazlock.stmmnupwgen.caption
+msgctxt "tmainlazlock.stmmnupwgen.caption"
+msgid "Password Generator"
+msgstr "Generator Hasełę"
+
+#: tpasswordgenerator.edname1.caption
+msgctxt "tpasswordgenerator.edname1.caption"
+msgid "Name of Site"
+msgstr "Nazwa witryny"
+
+#: tpasswordgenerator.edname2.caption
+msgctxt "tpasswordgenerator.edname2.caption"
+msgid "Name of Site"
+msgstr "Nazwa witryny"
+
+#: tpasswordgenerator.ednamea.texthint
+msgid "eg Cpunk-Security"
+msgstr "eg Cpunk-Security"
+
+#: tpasswordgenerator.edpassword1.caption
+msgctxt "tpasswordgenerator.edpassword1.caption"
+msgid "Password"
+msgstr "Hasło"
+
+#: tpasswordgenerator.edpassword2.caption
+msgctxt "tpasswordgenerator.edpassword2.caption"
+msgid "Password"
+msgstr "Hasło"
+
+#: tpasswordgenerator.edurl1.caption
+msgctxt "tpasswordgenerator.edurl1.caption"
+msgid "URL"
+msgstr "URL"
+
+#: tpasswordgenerator.edurl2.caption
+msgctxt "tpasswordgenerator.edurl2.caption"
+msgid "URL"
+msgstr "URL"
+
+#: tpasswordgenerator.edurla.texthint
+msgid "https://www.cpunk-security.com/"
+msgstr "https://www.cpunk-security.com/"
+
+#: tpasswordgenerator.eduser1.caption
+msgctxt "tpasswordgenerator.eduser1.caption"
+msgid "Username"
+msgstr "Nazwa Użytkownika"
+
+#: tpasswordgenerator.eduser2.caption
+msgctxt "tpasswordgenerator.eduser2.caption"
+msgid "Username"
+msgstr "Nazwa Użytkownika"
+
+#: tmainlazlock.menuitem11.caption
+msgctxt "tmainlazlock.menuitem11.caption"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.menuitem6.caption
+msgctxt "tmainlazlock.menuitem6.caption"
+msgid "-"
+msgstr "-"
+
+#: tmainlazlock.rcmmnucopypw.caption
+msgctxt "tmainlazlock.rcmmnucopypw.caption"
+msgid "Copy Password"
+msgstr "Kopiuj hasło"
+
+#: tmainlazlock.rcmmnucopyurl.caption
+msgctxt "tmainlazlock.rcmmnucopyurl.caption"
+msgid "Copy URL"
+msgstr "Kopiuj URL"
+
+#: tmainlazlock.rcmmnucopyuser.caption
+msgctxt "tmainlazlock.rcmmnucopyuser.caption"
+msgid "Copy Username"
+msgstr "Kopiuj Nazwa Użytkownika"
+
+#: tmainlazlock.rcmnucopypassword.caption
+msgctxt "tmainlazlock.rcmnucopypassword.caption"
+msgid "Copy Password"
+msgstr "Kopiuj hasło"
+
+#: tmainlazlock.rcmnucopyurl.caption
+msgctxt "tmainlazlock.rcmnucopyurl.caption"
+msgid "Copy URL"
+msgstr "Kopiuj URL"
+
+#: tmainlazlock.rcmnucopyusername.caption
+msgctxt "tmainlazlock.rcmnucopyusername.caption"
+msgid "Copy Username"
+msgstr "Kopiuj Nazwa Użytkownika"
+
+#: tmainlazlock.stmmnuexit.caption
+msgctxt "tmainlazlock.stmmnuexit.caption"
+msgid "Exit LazLock"
+msgstr "Zjazd LazLock"
+
+#: tpasswordgenerator.edurla.texthint
+msgctxt "tpasswordgenerator.edurla.texthint"
+msgid "https://www.cpunk-security.com/"
+msgstr "https://www.cpunk-security.com/"
+
+#: unittranslate.categoryselect
+msgctxt "unittranslate.categoryselect"
+msgid "Select"
+msgstr "Wybierz"
+
+#: unittranslate.statustotalrecords
+msgid " records in LazLock"
+msgstr " rekordy w LazLock"
+

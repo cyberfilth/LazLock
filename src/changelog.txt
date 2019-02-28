@@ -1,0 +1,66 @@
+Changelog
+
+Version 2.6.4.2
+Fixed issue with right-click menu not updating correctly
+LazLock saves window position on exit
+Added total number of records in statusbar
+Added Exit option to system tray menu
+Added menu options to right-click menu
+Fixed Delete Entry code
+Fixed Category Select caption when adding a new entry
+
+Version 2.6.3.0
+LazLock now saves window size on exit, settings stored in an XML file in LLData folder
+Added ability to minimise LazLock to the system tray and hide from taskbar
+Updated the surname of the Polish translator since she did me the honour of marrying me
+Added translations for Chinese (simplified), Czech, Dutch, French, Hindi, Hungarian, Italian, Romanian, Russian, Spanish, Swedish & Turkish
+
+Version 2.6
+Added a search bar to allow you to easily find the entry that you need.
+Added mini right-click menu to Category list
+Various improvements to the code including fixing a memory leak that occurred under certain conditions and an issue where adding a new entry didn't update the list.
+Small amendments to UI
+
+Version 2.4.2
+Fixed graphic glitches on Windows
+
+Version 2.4.1
+Fixed an error where adding a new entry didn't update the ListView
+Fixed a graphic glitch on Linux where the Generate Password button didn't display correctly
+
+Version 2.4
+Added support for internationalization, added Polish, Portugese & Brazilian language support.
+Fixed a bug where an edited entry didn't remove the previous version.
+Center aligned the password strength caption
+TlabelEdit boxes replaced with TEdit boxes and captions to aid in internationalization.
+Various bugfixes and refactoring
+
+Version 2.2.2.0
+Password generator now uses a variation of Shannon entropy to calculate password strength 
+Fixed a bug where adding an entry cleared some of the categories
+
+Version 2.2
+Allowed entries to be filtered by category and sorted alphabetically
+
+Version 2.0.1.2
+Added a taskbar icon and submenu for GTK Linux version
+
+Version 2.0.1.1
+Stopped Access Violation appearing when clicking Edit when no entry is selected.
+Stopped Help dialog appearing after Login attempt is cancelled.
+The Linux version requires the Qt library (libQt4Pas)
+
+Version 2.0.1.0
+Event handler changed to fix a bug with left click in Linux and widget set changed to QT as the right-click menu wasn't appearing correctly under GTK.
+
+Version 2.0
+Complete rewrite of LazLock.
+
+-LazLock 2 uses 128 bit Rijndael block encryption with a 256 bit key.
+-Changed the design to a ListView that allows the user to organise their logins by category and reduce the amount of hunting / scrolling to find an entry.
+-Improved the password generator by including more character options and a password strength bar. This bar is a rough guide that doesn't take dictionary attacks into account (as the password is randomly generated) but provides visual feedback to encourage the user to create more complex passwords.
+-User interface has been simplified, icons and the right-click menu provides access to commonly used functions.
+
+Version 0.8.0.0 - Version 1.0 (released 28/04/2016)
+Used a very different codebase and presented data in the form of a spreadsheet.
+This version encrypted data with a 64 bit Blowfish algorithm.

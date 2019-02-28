@@ -1,0 +1,17 @@
+ZH Chinese (simplified)
+CS Czech
+NL Dutch
+FR French
+EN English
+DE German
+HI Hindi
+HU Hungarian
+IT Italian
+RO Romanian
+RU Russian
+ES Spanish
+TR Turkish
+SV Swedish
+PL Polish
+PT Portuguese
+BR Portuguese (Brazil)
