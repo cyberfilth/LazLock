@@ -1,8 +1,6 @@
 # LazLock
 
-One Paragraph of project description goes here
-
-## Getting Started
+## Introduction
 
 LazLock is a lightweight, portable password manager that runs on both Windows and GNU/Linux.
 It doesn't need to be installed on your computer, so can be run from a USB stick. Carry both the Windows and the Linux versions with you and you'll be able to access your passwords from any PC.
