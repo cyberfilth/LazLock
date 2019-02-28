@@ -52,7 +52,6 @@ Then try running the program by entering ./lazlock
 
 Help
 ----
-You can view the online help at https://www.cpunk-security.com/lazlock2.html
 Any bugs can be reported on the sourceforge page at https://sourceforge.net/p/lazlock/tickets/
 
 The latest version of LazLock can be downloaded from https://sourceforge.net/projects/lazlock/
