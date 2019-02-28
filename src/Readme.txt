@@ -73,6 +73,6 @@ If you'd like to help translating LazLock into other languages, please contact G
 
 
 
-Copyright (C) 2016-2017 Chris Hawkins, LazLock is licensed under the MIT license.
+Copyright (C) 2016-2019 Chris Hawkins, LazLock is licensed under the MIT license.
 
 Readme.txt last updated 21 November 2017
