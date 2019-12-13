@@ -7,7 +7,7 @@ It doesn't need to be installed on your computer, so can be run from a USB stick
 It also has an option to create strong, random passwords for all of the websites that you visit, you only need to remember one password to unlock them all. 
 Your data is strongly protected with 128 bit AES encryption.
 
-LazLock was previously featured in [Linux Format](https://www.linuxformat.com/) magazine. ([Read the article online](https://pressreader.com/article/282187946414121) 
+LazLock was previously featured in [Linux Format](https://www.linuxformat.com/) magazine. ([Read the article online](https://pressreader.com/article/282187946414121))
 
 ## Features
 * 128 bit AES encryption
