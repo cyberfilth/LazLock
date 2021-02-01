@@ -33,4 +33,4 @@ This project is licensed under the MIT License
 ## Acknowledgments
 
 * Aleksandra Hawkins
-* Gustavo Carino
+* Gustavo Carreno
