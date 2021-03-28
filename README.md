@@ -9,6 +9,8 @@ Your data is strongly protected with 128 bit AES encryption.
 
 LazLock was previously featured in [Linux Format](https://www.linuxformat.com/) magazine. ([Read the article online](https://pressreader.com/article/282187946414121))
 
+![Password Generator](https://raw.githubusercontent.com/cyberfilth/LazLock/master/LazLockPWGenerator.png)
+
 ## Features
 * 128 bit AES encryption
 * Portable application with no need to install
