@@ -487,7 +487,7 @@ end;
 
 procedure TmainLazLock.mnuOnlineHelpClick(Sender: TObject);
 begin
-  OpenURL('https://www.cpunk-security.com/lazlock2.html');
+  OpenURL('https://github.com/cyberfilth/LazLock/wiki/LazLock-online-help');
 end;
 
 procedure TmainLazLock.GoToURLClick(Sender: TObject);
@@ -1457,7 +1457,7 @@ begin
       if MessageDlg(LetsBegin, WelcomeMessageDialog, mtConfirmation,
         [mbYes, mbNo], 0) = mrYes then
       begin
-        OpenURL('https://www.cpunk-security.com/lazlock2.html');
+        OpenURL('https://github.com/cyberfilth/LazLock/wiki/LazLock-online-help');
         mainLazLock.AlphaBlendValue := 255;
       end;
       mainLazLock.AlphaBlendValue := 255;

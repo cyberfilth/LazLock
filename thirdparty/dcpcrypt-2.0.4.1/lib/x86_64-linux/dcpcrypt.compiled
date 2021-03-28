@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CONFIG>
   <Compiler Value="/home/cyberfilth/Development/FreePascal/fpc/bin/fpc" Date="1581412235"/>
-  <Params Value=" -MDelphi -Sah -Cg -O1 -g -gl -l -vewnhibq -Fu/home/cyberfilth/Development/LazLock-master/thirdparty/dcpcrypt-2.0.4.1/Ciphers -Fu/home/cyberfilth/Development/LazLock-master/thirdparty/dcpcrypt-2.0.4.1/Hashes -Fu/home/cyberfilth/Development/LazLock-master/thirdparty/dcpcrypt-2.0.4.1/lib/x86_64-linux -Fu/home/cyberfilth/Development/FreePascal/lazarus/packager/units/x86_64-linux -Fu/home/cyberfilth/Development/LazLock-master/thirdparty/dcpcrypt-2.0.4.1/ -FU/home/cyberfilth/Development/LazLock-master/thirdparty/dcpcrypt-2.0.4.1/lib/x86_64-linux/ -Xd dcpcrypt.pas"/>
+  <Params Value=" -MDelphi -Sah -Cg -O1 -g -gl -l -vewnhibq -Fu/home/cyberfilth/Development/LazLock/thirdparty/dcpcrypt-2.0.4.1/Ciphers -Fu/home/cyberfilth/Development/LazLock/thirdparty/dcpcrypt-2.0.4.1/Hashes -Fu/home/cyberfilth/Development/LazLock/thirdparty/dcpcrypt-2.0.4.1/lib/x86_64-linux -Fu/home/cyberfilth/Development/FreePascal/lazarus/packager/units/x86_64-linux -Fu/home/cyberfilth/Development/LazLock/thirdparty/dcpcrypt-2.0.4.1/ -FU/home/cyberfilth/Development/LazLock/thirdparty/dcpcrypt-2.0.4.1/lib/x86_64-linux/ -Xd dcpcrypt.pas"/>
 </CONFIG>

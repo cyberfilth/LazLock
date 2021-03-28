@@ -10,7 +10,7 @@ uses {$IFDEF UNIX} {$IFDEF UseCThreads}
   { you can add units after this }
   unitmain,
   unitpassword,
-  unittranslate;
+  unittranslate, poweredby;
 
 {$R *.res}
 

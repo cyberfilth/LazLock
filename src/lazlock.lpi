@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CONFIG>
   <ProjectOptions>
-    <Version Value="10"/>
+    <Version Value="12"/>
     <General>
+      <Flags>
+        <CompatibilityMode Value="True"/>
+      </Flags>
       <SessionStorage Value="InProjectDir"/>
-      <MainUnit Value="0"/>
       <Title Value="LazLock"/>
       <UseAppBundle Value="False"/>
       <ResourceType Value="res"/>
@@ -27,7 +29,7 @@
       <BuildNr Value="2"/>
       <Language Value="0809"/>
       <Attributes pvaDebug="True" pvaPreRelease="True"/>
-      <StringTable FileDescription="LazLock password manager" LegalCopyright="2017 Chris Hawkins" ProductName="LazLock" ProductVersion=""/>
+      <StringTable FileDescription="LazLock password manager" LegalCopyright="2017 Chris Hawkins" ProductName="LazLock"/>
     </VersionInfo>
     <BuildModes Count="2">
       <Item1 Name="Debug" Default="True"/>
@@ -68,29 +70,36 @@
       <DestinationDirectory Value="/home/cyberfilth/code/publishedCode"/>
     </PublishOptions>
     <RunParams>
-      <local>
-        <FormatVersion Value="1"/>
-      </local>
+      <FormatVersion Value="2"/>
+      <Modes Count="1">
+        <Mode0 Name="default"/>
+      </Modes>
     </RunParams>
-    <RequiredPackages Count="6">
+    <RequiredPackages Count="8">
       <Item1>
-        <PackageName Value="FCL"/>
+        <PackageName Value="poweredby"/>
       </Item1>
       <Item2>
-        <PackageName Value="LazControls"/>
+        <PackageName Value="dcpcrypt_laz"/>
       </Item2>
       <Item3>
-        <PackageName Value="splashabout"/>
+        <PackageName Value="FCL"/>
       </Item3>
       <Item4>
-        <PackageName Value="dcpcrypt"/>
+        <PackageName Value="LazControls"/>
       </Item4>
       <Item5>
-        <PackageName Value="eccontrols"/>
+        <PackageName Value="splashabout"/>
       </Item5>
       <Item6>
-        <PackageName Value="LCL"/>
+        <PackageName Value="dcpcrypt"/>
       </Item6>
+      <Item7>
+        <PackageName Value="eccontrols"/>
+      </Item7>
+      <Item8>
+        <PackageName Value="LCL"/>
+      </Item8>
     </RequiredPackages>
     <Units Count="4">
       <Unit0>
