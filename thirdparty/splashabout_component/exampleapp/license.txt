@@ -1,0 +1,15 @@
+This is a custom license text file which must be
+called 'license.txt' and be in the same folder as the executable.
+You can put any text you like in here.
+Certain text (without the spaces) is replaced automatically by the value of a property.
+All instances of < name of author > are replaced with the Author property
+All instances of < contact > are replaced with the SupportContact property
+All instances of < copyright holders > are replaced with the Copyright property
+All instances of < year > are replaced with the current date
+Read the licence.txt included with the example application for details.
+Set the properties to see the example below:
+Author: <name of author>
+Copyright: <copyright holders>
+Support : <contact>
+Released: <year>
+(c)<year> by <copyright holders>

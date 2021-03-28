@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1289511955"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gl -vewnhi -l -Fu/usr/lib/lazarus/0.9.30/ideintf/units/i386-linux -Fu/usr/lib/lazarus/0.9.30/lcl/units/i386-linux -Fu/usr/lib/lazarus/0.9.30/lcl/units/i386-linux/gtk2 -Fu/usr/lib/lazarus/0.9.30/packager/units/i386-linux -Fu/mnt/sdc2/PASCAL64/lazarus/components/poweredby/ -Fu. -FU/mnt/sdc2/PASCAL64/lazarus/components/poweredby/lib/i386-linux/ -dLCL -dLCLgtk2 poweredby.pas"/>
+</CONFIG>

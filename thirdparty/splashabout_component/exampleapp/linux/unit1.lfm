@@ -1,0 +1,50 @@
+object Form1: TForm1
+  Left = 423
+  Height = 129
+  Top = 317
+  Width = 193
+  BorderStyle = bsDialog
+  Caption = 'Form Caption'
+  ClientHeight = 129
+  ClientWidth = 193
+  OnCreate = FormCreate
+  Position = poDesktopCenter
+  LCLVersion = '0.9.30'
+  object Button1: TButton
+    Left = 16
+    Height = 25
+    Top = 24
+    Width = 75
+    Caption = 'About'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+  object Button2: TButton
+    Left = 104
+    Height = 25
+    Top = 24
+    Width = 75
+    Caption = 'Splash'
+    OnClick = Button2Click
+    TabOrder = 1
+  end
+  object BitBtn1: TBitBtn
+    Left = 64
+    Height = 30
+    Top = 72
+    Width = 75
+    Caption = '&Close'
+    Kind = bkClose
+    TabOrder = 2
+  end
+  object SplashAbout1: TSplashAbout
+    Font.Height = -13
+    UserTitle = 'My Application'
+    ShowDescription = False
+    FormSplashHeight = 280
+    ShowCreditButton = True
+    CreditsTextfileName = 'credits.txt'
+    left = 31
+    top = 73
+  end
+end

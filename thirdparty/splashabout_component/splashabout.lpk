@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Package Version="4">
+    <PathDelim Value="\"/>
+    <Name Value="splashabout"/>
+    <Author Value="Gordon Bamber (minesadorada@charcodelvalle.com)"/>
+    <CompilerOptions>
+      <Version Value="11"/>
+      <PathDelim Value="\"/>
+      <SearchPaths>
+        <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+      </SearchPaths>
+      <CodeGeneration>
+        <Checks>
+          <IOChecks Value="True"/>
+          <RangeChecks Value="True"/>
+        </Checks>
+        <SmallerCode Value="True"/>
+      </CodeGeneration>
+      <Linking>
+        <Debugging>
+          <GenerateDebugInfo Value="False"/>
+        </Debugging>
+      </Linking>
+      <Other>
+        <Verbosity>
+          <ShowCond Value="True"/>
+        </Verbosity>
+        <WriteFPCLogo Value="False"/>
+        <CompilerMessages>
+          <MsgFileName Value=""/>
+        </CompilerMessages>
+        <CompilerPath Value="$(CompPath)"/>
+      </Other>
+    </CompilerOptions>
+    <Description Value="Two methods: SplashAbout1.ShowSplash (in form1.create method) and SplashAbout1.ShowAbout.
+Windows are created on-the-fly and destroyed on close.
+"/>
+    <License Value="LGPL
+"/>
+    <Version Major="1" Minor="4" Release="3"/>
+    <Files Count="3">
+      <Item1>
+        <Filename Value="usplashabout.pas"/>
+        <HasRegisterProc Value="True"/>
+        <UnitName Value="usplashabout"/>
+      </Item1>
+      <Item2>
+        <Filename Value="uversion.pas"/>
+        <UnitName Value="uversion"/>
+      </Item2>
+      <Item3>
+        <Filename Value="scrolltextclass.pas"/>
+        <UnitName Value="scrolltextclass"/>
+      </Item3>
+    </Files>
+    <Type Value="RunAndDesignTime"/>
+    <RequiredPkgs Count="2">
+      <Item1>
+        <PackageName Value="poweredby"/>
+      </Item1>
+      <Item2>
+        <PackageName Value="IDEIntf"/>
+      </Item2>
+    </RequiredPkgs>
+    <UsageOptions>
+      <UnitPath Value="$(PkgOutDir)"/>
+    </UsageOptions>
+    <PublishOptions>
+      <Version Value="2"/>
+    </PublishOptions>
+  </Package>
+</CONFIG>

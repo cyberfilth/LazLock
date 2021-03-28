@@ -1,0 +1,47 @@
+object frm_StringListEditor: Tfrm_StringListEditor
+  Left = 1028
+  Height = 513
+  Top = 327
+  Width = 552
+  BorderIcons = []
+  BorderStyle = bsSizeToolWin
+  Caption = 'frm_StringListEditor'
+  ClientHeight = 513
+  ClientWidth = 552
+  DefaultMonitor = dmMainForm
+  FormStyle = fsStayOnTop
+  PopupMode = pmExplicit
+  PopupParent = Form1.Owner
+  Position = poMainFormCenter
+  ShowInTaskBar = stNever
+  LCLVersion = '1.2.2.0'
+  object StringListEditorMemo: TMemo
+    Left = 0
+    Height = 440
+    Top = 0
+    Width = 552
+    Align = alTop
+    ScrollBars = ssAutoVertical
+    TabOrder = 0
+  end
+  object cmd_Close: TBitBtn
+    Left = 219
+    Height = 30
+    Top = 464
+    Width = 115
+    Caption = '&Close and Save'
+    Kind = bkClose
+    ModalResult = 11
+    TabOrder = 1
+  end
+  object cmd_ClearMemo: TBitBtn
+    Left = 424
+    Height = 30
+    Top = 464
+    Width = 107
+    Caption = 'Clear all text'
+    Kind = bkAbort
+    OnClick = cmd_ClearMemoClick
+    TabOrder = 2
+  end
+end
