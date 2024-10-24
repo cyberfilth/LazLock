@@ -43,11 +43,11 @@ function priv_main
     fi
     if ((${#})); then
         case ${1} in
-            build) pub_build;;
+            build) pub_build 1>&2 ;;
         esac
     else
         priv_clippit
     fi
 )
 
-priv_main "${@}"
+priv_main "${@}" >/dev/null
