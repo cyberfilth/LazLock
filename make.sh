@@ -23,7 +23,7 @@ function pub_build
     wget 'https://packages.lazarus-ide.org/PoweredBy.zip'
     unzip 'PoweredBy.zip' -d 'thirdparty/PoweredBy'
     for lpk in "${USES[@]}"; do
-        lazbuild --add-package-link="${lpk}"
+        lazbuild --add-package-link "${lpk}"
     done
     lazbuild --recursive --build-mode=release 'src/lazlock.lpi'
     strip 'bin/x86_64-linux/Hex'
