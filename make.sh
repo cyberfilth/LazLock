@@ -26,7 +26,7 @@ function pub_build
         lazbuild --add-package-link "${lpk}"
     done
     lazbuild --recursive --build-mode=release 'src/lazlock.lpi'
-    strip 'bin/x86_64-linux/Hex'
+    strip 'LazLock/src/lazlock'
 )
 
 function priv_main
