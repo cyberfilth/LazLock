@@ -9,23 +9,17 @@ Options:
 EOF
 )
 
-declare -ra USES=(
-    'thirdparty/PoweredBy/poweredby/poweredby.lpk'
-    'thirdparty/EC_Controls/eccontrols.lpk'
-    'thirdparty/dcpcrypt-2.0.4.1/dcpcrypt.lpk'
-    'thirdparty/dcpcrypt-2.0.4.1/dcpcrypt_laz.lpk'
-    'thirdparty/splashabout_component/poweredby/poweredby.lpk'
-    'thirdparty/splashabout_component/splashabout.lpk'
-)
-
 function pub_build
 (
     wget 'https://packages.lazarus-ide.org/PoweredBy.zip'
-    unzip 'PoweredBy.zip' -d 'thirdparty/PoweredBy'
-    for lpk in "${USES[@]}"; do
-        lazbuild --add-package-link "${lpk}"
-    done
-    lazbuild --recursive --build-mode=release 'src/lazlock.lpi'
+    unzip -o 'PoweredBy.zip' -d 'use/PoweredBy'
+    wget 'https://packages.lazarus-ide.org/EyeCandyControls.zip'
+    unzip -o 'EyeCandyControls.zip' -d 'use/EyeCandyControls'
+    wget 'https://packages.lazarus-ide.org/splashabout.zip'
+    unzip -o 'splashabout.zip' -d 'use/splashabout'
+    git submodule update --init --recursive
+    find 'use' -type 'f' -name '*.lpk' -exec lazbuild --add-package-link {} \;
+    find 'src' -type 'f' -name '*.lpi' -exec lazbuild --recursive --build-mode=release {} \;
     strip 'LazLock/src/lazlock'
 )
 
