@@ -9,35 +9,47 @@ Options:
 EOF
 )
 
-function pub_build
+function priv_packages
 (
-    wget 'https://packages.lazarus-ide.org/PoweredBy.zip'
-    unzip -o 'PoweredBy.zip' -d 'use/PoweredBy'
-    wget 'https://packages.lazarus-ide.org/EyeCandyControls.zip'
-    unzip -o 'EyeCandyControls.zip' -d 'use/EyeCandyControls'
-    wget 'https://packages.lazarus-ide.org/splashabout.zip'
-    unzip -o 'splashabout.zip' -d 'use/splashabout'
-    git submodule update --init --recursive
-    find 'use' -type 'f' -name '*.lpk' -exec lazbuild --add-package-link {} \;
-    find 'src' -type 'f' -name '*.lpi' -exec lazbuild --recursive --build-mode=release {} \;
-    strip 'LazLock/src/lazlock'
+    if [[ -d 'use' ]]; then
+        git submodule update --init --recursive
+        git submodule update --recursive --remote
+    else
+        mkdir 'use'
+    fi
+    if ((${#})); then
+        for REPLY in "${@}"; do
+            declare -A VAR=(
+                [url]="https://packages.lazarus-ide.org/${REPLY}.zip"
+                [out]=$(mktemp)
+            )
+            wget --output-document "${VAR[out]}" "${VAR[url]}"
+            unzip -o "${VAR[out]}" -d "use/${REPLY}"
+            rm --verbose "${VAR[out]}"
+        done
+    fi
+    find 'use' -type 'f' -name '*.lpk' -exec lazbuild --add-package-link {} +
 )
 
 function priv_main
 (
     set -euo pipefail
-    if !(which lazbuild); then
-        source '/etc/os-release'
-        case ${ID:?} in
-            debian | ubuntu)
-                sudo apt-get update
-                sudo apt-get install -y lazarus
-            ;;
-        esac
-    fi
     if ((${#})); then
         case ${1} in
-            build) pub_build 1>&2 ;;
+            build)
+                if !(which lazbuild); then
+                    source '/etc/os-release'
+                    case ${ID:?} in
+                        debian | ubuntu)
+                            sudo apt-get update
+                            sudo apt-get install -y lazarus
+                        ;;
+                    esac
+                fi
+                priv_packages 'PoweredBy' 'EyeCandyControls' 'splashabout'
+                find 'src' -type 'f' -name '*.lpi' \
+                    -exec lazbuild --no-write-project --recursive --no-write-project --build-mode=release {} + 1>&2
+                ;;
         esac
     else
         priv_clippit
