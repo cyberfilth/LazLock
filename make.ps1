@@ -64,7 +64,7 @@ Function PrivPackages {
 
 Function PrivMain {
     $ErrorActionPreference = 'stop'
-    Set-PSDebug -Strict -Trace 1
+    Set-PSDebug -Strict
     Invoke-ScriptAnalyzer -EnableExit -Path $PSCommandPath
     If ($args.count -gt 0) {
         PrivPrepare
