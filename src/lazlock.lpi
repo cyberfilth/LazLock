@@ -26,7 +26,7 @@
       <MajorVersionNr Value="2"/>
       <MinorVersionNr Value="6"/>
       <RevisionNr Value="4"/>
-      <BuildNr Value="2"/>
+      <BuildNr Value="4"/>
       <Language Value="0809"/>
       <Attributes pvaDebug="True" pvaPreRelease="True"/>
       <StringTable FileDescription="LazLock password manager" LegalCopyright="2017 Chris Hawkins" ProductName="LazLock"/>
@@ -160,7 +160,7 @@
     </Linking>
     <Other>
       <Verbosity>
-        <ShoLineNum Value="True"/>
+        <ShowLineNum Value="True"/>
         <ShowHintsForUnusedUnitsInMainSrc Value="True"/>
       </Verbosity>
       <WriteFPCLogo Value="False"/>

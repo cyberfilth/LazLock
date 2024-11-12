@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="/home/cyberfilth/Development/FreePascal/fpc/bin/fpc" Date="1581412235"/>
-  <Params Value=" -MObjFPC -Schi -CX -Cg -CR -O3 -l -vewnhibq -Fi/home/cyberfilth/Development/LazLock/thirdparty/EC_Controls -Fu/home/cyberfilth/Development/LazLock/thirdparty/EC_Controls -Fu/home/cyberfilth/Development/FreePascal/lazarus/packager/units/x86_64-linux -Fu/home/cyberfilth/Development/FreePascal/lazarus/components/lazutils/lib/x86_64-linux -Fu/home/cyberfilth/Development/FreePascal/lazarus/lcl/units/x86_64-linux -Fu/home/cyberfilth/Development/FreePascal/lazarus/lcl/units/x86_64-linux/gtk2 -Fu/home/cyberfilth/Development/FreePascal/lazarus/components/lazcontrols/lib/x86_64-linux/gtk2 -Fu/home/cyberfilth/Development/FreePascal/lazarus/components/ideintf/units/x86_64-linux/gtk2 -FU/home/cyberfilth/Development/LazLock/thirdparty/EC_Controls/lib/x86_64-linux/ -dLCL -dLCLgtk2 eccontrols.pas"/>
-</CONFIG>
