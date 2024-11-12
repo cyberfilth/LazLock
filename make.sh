@@ -27,12 +27,12 @@ function priv_lazbuild
             if [[ -n "${REPLY}" ]] &&
                 ! (lazbuild --verbose-pkgsearch "${REPLY}") &&
                 ! (lazbuild --add-package "${REPLY}") &&
-                ! [[ -f "use/${REPLY}" ]]; then
+                ! [[ -e "use/${REPLY}" ]]; then
                     declare -A VAR=(
                         [url]="https://packages.lazarus-ide.org/${REPLY}.zip"
                         [out]=$(mktemp)
                     )
-                    wget --output-document "${VAR[out]}" "${VAR[url]}" >/dev/null
+                    wget --output-document "${VAR[out]}" "${VAR[url]}" 2>/dev/null
                     unzip -o "${VAR[out]}" -d "use/${REPLY}"
                     rm --verbose "${VAR[out]}"
                 fi
