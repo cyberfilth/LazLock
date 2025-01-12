@@ -1,0 +1,11 @@
+{
+    "app" : "src",
+    "lib" : "use",
+    "tst" : "tst",
+    "pkg" : [
+        "PoweredBy",
+        "EyeCandyControls",
+        "splashabout",
+        "DCPcrypt"
+    ]
+}
