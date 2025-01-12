@@ -27,11 +27,11 @@ Filter Build-Project {
     @(
         @{
             Cmd = 'lazbuild'
-            Url = 'https://fossies.org/windows/misc/lazarus-3.6-fpc-3.2.2-win64.exe'
+            Uri = 'https://fossies.org/windows/misc/lazarus-3.6-fpc-3.2.2-win64.exe'
             Path = "C:\Lazarus"
         }
     ) | Install-Program
-    $_.Pkg | Install-Package
+    $_.Pkg | Install-OPM
     If (Test-Path -Path $_.lib) {
         (Get-ChildItem -Filter '*.lpk' -Recurse -File –Path $_.lib).FullName |
             Where-Object {
@@ -77,9 +77,9 @@ Filter Out-Log {
         If (! (Test-Path -Path Variable:LastExitCode)) {
             "$(Get-Date -uformat '%y-%m-%d_%T')$([char]27)[33m`t{0}$([char]27)[0m" -f $_
         } ElseIf ($LastExitCode -eq 0) {
-            "$(Get-Date -uformat '%y-%m-%d_%T')$([char]27)[33m`t[{0}]`t{1}$([char]27)[0m" -f $LastExitCode, $_
+            "$(Get-Date -uformat '%y-%m-%d_%T')$([char]27)[32m`t[{0}]`t{1}$([char]27)[0m" -f $LastExitCode, $_
         } Else {
-            "$(Get-Date -uformat '%y-%m-%d_%T')$([char]27)[33m`t[{0}]`t{1}$([char]27)[0m" -f $LastExitCode, $_
+            "$(Get-Date -uformat '%y-%m-%d_%T')$([char]27)[31m`t[{0}]`t{1}$([char]27)[0m" -f $LastExitCode, $_
         }
     ) | Out-Host
 }
@@ -87,28 +87,23 @@ Filter Out-Log {
 Function Install-Program {
     $Input | Where-Object {
         ! (Test-Path -Path $_.Path)
+    } | ForEach-Object -Parallel {
+        $_.OutFile = '{0}.{1}' -f (New-TemporaryFile).FullName, (Split-Path -Path $_.Uri -Leaf).Split('?')[0]
+        Invoke-WebRequest -OutFile $_.OutFile -Uri $_.Uri
+        Return $_
     } | ForEach-Object {
-        $_.Url | ForEach-Object -Parallel {
-            New-Variable -Option Constant -Name VAR -Value @{
-                Uri = $_
-                OutFile = (Split-Path -Path $_ -Leaf).Split('?')[0]
-            }
-            Invoke-WebRequest @VAR
-            Return $VAR.OutFile
-        } | ForEach-Object {
-            If ((Split-Path -Path $_ -Leaf).Split('.')[-1] -eq 'msi') {
-                & msiexec /passive /package $_ | Out-Null
-            } Else {
-                & ".\$_" /SP- /VERYSILENT /SUPPRESSMSGBOXES /NORESTART  | Out-Null
-            }
-            Remove-Item $_
+        If ((Split-Path -Path $_.OutFile -Leaf).Split('.')[-1] -eq 'msi') {
+            & msiexec /passive /package $_.OutFile | Out-Null
+        } Else {
+            & $_.OutFile.Replace('Temp', 'Temp\.') /SP- /VERYSILENT /SUPPRESSMSGBOXES /NORESTART  | Out-Null
         }
+        Remove-Item $_.OutFile
         $Env:PATH+=';{0}' -f $_.Path
         Return 'installed {0}' -f (Get-Command $_.Cmd).Source
     } | Out-Log
 }
 
-Function Install-Package {
+Function Install-OPM {
     $Input | ForEach-Object {
         @{
             Name = $_
@@ -121,7 +116,6 @@ Function Install-Package {
         ! (& lazbuild --verbose-pkgsearch $_.Name ) &&
         ! (& lazbuild --add-package $_.Name)
     } | ForEach-Object -Parallel {
-        $_ | Check-Connect
         Invoke-WebRequest -OutFile $_.OutFile -Uri $_.Uri
         New-Item -Type Directory -Path $_.Path | Out-Null
         Expand-Archive -Path $_.OutFile -DestinationPath $_.Path
@@ -133,7 +127,7 @@ Function Install-Package {
     } | Out-Log
 }
 
-Filter Check-Connect() {
+Filter Ping-Connect {
     @{
         Method = 'POST'
         Headers = @{
